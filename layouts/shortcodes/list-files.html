@@ -1,0 +1,12 @@
+{{ $dir := .Get "dir" }}
+{{ $regexp := .Get "regexp" }}
+{{ $iconf := "fa-file" }}
+{{ $icond := "fa-folder" }}
+
+<ul>
+{{ range sort (readDir (delimit (slice "static" $dir) "/")) "Name" "desc" }}
+  {{ if (findRE $regexp .Name) }}
+  <li><a href="/{{ $dir }}/{{ .Name }}">{{ .Name }}</a></li>
+  {{ end }}
+{{ end }}
+</ul>

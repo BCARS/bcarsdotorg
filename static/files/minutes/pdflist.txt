@@ -1,0 +1,470 @@
+START=https://static.bcars.org/bcars/uploads/2023/12/bcars-minutes-2023-11-02.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2707'>
+	bcars-minutes-2023-11-02<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/11/bcars-minutes-2023-10-05.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2703'>
+	bcars-minutes-2023-10-05<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2023/09/bcars-minutes-2023-09-07.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2695'>
+	bcars-minutes-2023-09-07<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/09/bcars-minutes-2023-08-03.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2693'>
+	bcars-minutes-2023-08-03<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/07/bcars-minutes-2023-07-06.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2689'>
+	bcars-minutes-2023-07-06<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2023/06/bcars-minutes-2023-06-01.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2685'>
+	bcars-minutes-2023-06-01<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/05/bcars-minutes-2023-05-04.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2671'>
+	bcars-minutes-2023-05-04<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/05/bcars-minutes-2023-04-06-2.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2672'>
+	bcars-minutes-2023-04-06-2<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2023/06/bcars-minutes-2023-03-02.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2687'>
+	bcars-minutes-2023-03-02<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/06/bcars-minutes-20230202-1.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2686'>
+	bcars-minutes-2023-02-02<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2023/02/bcars-minutes-20230105.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2628'>
+	bcars-minutes-2023-01-05<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2022/12/bcars-minutes-20221201-1.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2619'>
+	bcars-minutes-20221201-1<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/11/bcars-minutes-20221103.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2615'>
+	bcars-minutes-20221103<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/11/bcars-minutes-20221006-1.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2614'>
+	bcars-minutes-20221006<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2022/09/bcars-minutes-20220901.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2586'>
+	bcars-minutes-20220901<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/09/bcars-minutes-20220804.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2584'>
+	bcars-minutes-20220804<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/07/bcars-minutes-20220707.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2547'>
+	bcars-minutes-20220707<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2022/07/bcars-minutes-20220602.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2548'>
+	bcars-minutes-20220602<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/06/bcars-minutes-20220505.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2520'>
+	bcars-minutes-20220505<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/05/bcars-minutes-20220407.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2503'>
+	bcars-minutes-20220407<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2022/03/bcars-minutes-20220303.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2491'>
+	bcars-minutes-20220303<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/02/bcars-minutes-20220203.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2481'>
+	bcars-minutes-20220203<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2022/01/bcars-minutes-20220106.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2474'>
+	bcars-minutes-20220106<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2021/12/bcars-minutes-20211203.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2444'>
+	bcars-minutes-20211203<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/12/bcars-minutes-20211104-2.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2445'>
+	bcars-minutes-20211104<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/10/bcars-minutes-20211007.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2431'>
+	bcars-minutes-20211007<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2021/10/bcars-minutes-20210902.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2427'>
+	bcars-minutes-20210902<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/08/bcars-minutes-20210805.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2422'>
+	bcars-minutes-20210805<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/11/bcars-minutes-20210701.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2433'>
+	bcars-minutes-20210701<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2021/06/bcars-minutes-20210603.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2358'>
+	bcars-minutes-20210603<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/06/bcars-minutes-20210506.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2353'>
+	bcars-minutes-20210506<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/05/bcars-minutes-20210401.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2341'>
+	bcars-minutes-20210401<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2021/03/bcars-minutes-20210304.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2324'>
+	bcars-minutes-20210304<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/03/bcars-minutes-20210204.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2323'>
+	bcars-minutes-20210204<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2021/01/bcars-minutes-20210107.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2259'>
+	bcars-minutes-20210107<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2021/01/bcars-minutes-20201203.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2258'>
+	bcars-minutes-20201203<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/11/bcars-minutes-20201101.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2216'>
+	bcars-minutes-20201101<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/11/bcars-minutes-20201001.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2198'>
+	bcars-minutes-20201001<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2020/09/bcars-minutes-20200903.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2195'>
+	bcars-minutes-20200903<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/09/bcars-minutes-20200806.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2193'>
+	bcars-minutes-20200806<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/08/bcars-minutes-2020702.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2189'>
+	bcars-minutes-20200702<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2020/07/bcars-minutes-2020604.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2175'>
+	bcars-minutes-20200604<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/06/bcars-minutes-20200507-1.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2152'>
+	bcars-minutes-20200507<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/04/bcars-minutes-20200402.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2134'>
+	bcars-minutes-20200402<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2020/04/bcars-minutes-20200305.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2131'>
+	bcars-minutes-20200305<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/04/bcars-minutes-20200206.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2132'>
+	bcars-minutes-20200206<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2020/01/bcars-minutes-20200102.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2085'>
+	bcars-minutes-20200102<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2020/01/bcars-minutes-20191205.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2082'>
+	bcars-minutes-20191205<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/12/bcars-minutes-20191107.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2080'>
+	bcars-minutes-20191107<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/11/bcars-minutes-20191003-1.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2075'>
+	bcars-minutes-20191003<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2019/11/bcars-minutes-20191003.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2073'>
+	bcars-minutes-20191003<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/09/bcars-minutes-20190905.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2063'>
+	bcars-minutes-20190905<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/08/bcars-minutes-20190801.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2061'>
+	bcars-minutes-20190801<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2019/06/bcars-minutes-20190606.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2047'>
+	bcars-minutes-20190606<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/05/bcars-minutes-20190502.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2039'>
+	bcars-minutes-20190502<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/05/bcars-minutes-20190404.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-2038'>
+	bcars-minutes-20190404<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2019/04/bcars-minutes-20190307.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1986'>
+	bcars-minutes-20190307<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/04/bcars-minutes-20190206.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1985'>
+	bcars-minutes-20190206<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2019/04/bcars-minutes-20190103.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1983'>
+	bcars-minutes-20190103<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2019/04/bcars-minutes-20181206.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1984'>
+	bcars-minutes-20181206<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/11/bcars-minutes-20181101.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1910'>
+	bcars-minutes-20181101<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/10/bcars-minutes-20181004.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1901'>
+	bcars-minutes-20181004<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2018/10/bcars-minutes-20180906.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1891'>
+	bcars-minutes-20180906<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/10/bcars-minutes-20180814.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1894'>
+	bcars-minutes-20180814<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/08/bcars-minutes-20180705.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1875'>
+	bcars-minutes-20180705<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2018/07/bcars-minutes-20180607.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1873'>
+	bcars-minutes-20180607<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/05/bcars-minutes-20180503.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1841'>
+	bcars-minutes-20180503<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/05/bcars-minutes-2018-04.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1842'>
+	bcars-minutes-2018-04<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2018/04/bcars-minutes-2018-03.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1835'>
+	bcars-minutes-2018-03<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/02/bcars-minutes-2018-02.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1829'>
+	bcars-minutes-2018-02<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2018/01/bcars-minutes-201801.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1819'>
+	bcars-minutes-2018-01<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-12.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1789'>
+	bcars-minutes-2017-12<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-11.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1774'>
+	bcars-minutes-2017-11<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-10.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1773'>
+	bcars-minutes-2017-10<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-09.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1772'>
+	bcars-minutes-2017-09<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-08.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1771'>
+	bcars-minutes-2017-08<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-07.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1775'>
+	bcars-minutes-2017-07<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/06/bcars-minutes-2017-06-2.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1719'>
+	bcars-minutes-2017-06<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/06/bcars-minutes-2017-06.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1717'>
+	bcars-minutes-2017-06<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/04/bcars-minutes-2017-05.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1677'>
+	bcars-minutes-2017-05<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2017-04.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1664'>
+	bcars-minutes-2017-04<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2017-03.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1663'>
+	bcars-minutes-2017-03<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2017-02.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1661'>
+	bcars-minutes-2017-02<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2017-01.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1659'>
+	bcars-minutes-2017-01<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-12.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1657'>
+	bcars-minutes-2016-12<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-11.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1655'>
+	bcars-minutes-2016-11<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-10.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1699'>
+	bcars-minutes-2016-10<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-09.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1698'>
+	bcars-minutes-2016-09<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-06.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1696'>
+	bcars-minutes-2016-06<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-03.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1695'>
+	bcars-minutes-2016-03<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-02.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1694'>
+	bcars-minutes-2016-02<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2016-01.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1693'>
+	bcars-minutes-2016-01<br />
+	</figcaption></figure>
+<figure class='gallery-item last_in_row'>
+START=https://static.bcars.org/bcars/uploads/2017/05/bcars-minutes-2014-10.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1692'>
+	bcars-minutes-2014-10<br />
+	</figcaption></figure>
+<figure class='gallery-item '>
+START=https://static.bcars.org/bcars/uploads/2017/12/bcars-minutes-2017-12-1.pdf=END
+	</div><figcaption class='wp-caption-text gallery-caption' id='mla_gallery-1-1790'>
+	BCARS Minutes 2017-12<br />
+	</figcaption></figure>
+</div>
