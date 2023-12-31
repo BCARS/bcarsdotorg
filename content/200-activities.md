@@ -7,7 +7,7 @@ draft: false
 toc: false
 ---
 
-## 2024 Schedule
+### 2024 Schedule
 
 - January 4th – [BCARS Members Meeting @ 7:30PM](/meetings/)
 - January TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)

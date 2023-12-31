@@ -1,29 +1,57 @@
 baseURL = 'https://b2024.bcars.org/'
 languageCode = 'en-us'
 title = 'BCARS 2024'
+copyright = 'something'
 
+defaultContentLanguage = "en"
 # theme = 'ananke'
+[languages]
+    [languages.en]
+        languageName = "English"
+        weight = 1
+        title = "BCARS 2024"
+        # contentDir = "content/en"
 
-# [params]
-# [[params.theme]]
-#     # default = 'system'
-#     # displayToggle = true
+
+[params]
+  [params.navbar]
+    displayTitle = true
+    displayLogo = true
+    [params.navbar.logo]
+      path = "/images/BCARS-LOGO-svg.svg"
+      width = 60
+      height = 60
+      link = "/"
+
+    # # logoDark = "images/logo-dark.svg"
+    # logoLink = "/"
+    # logoWidth = 40
+    # logoHeight = 40
+    # logoDarkWidth = 40
+    # logoDarkHeight = 40
+    # logoDarkLink = "/"
+  [params.page]
+    width = "wide"
+
 
 [menus]
 [[menus.main]]
+    name = "Welcome"
+    url = "/"
+    weight = 1
+[[menus.main]]
     name = "Activities"
     url = "/activities/"
-    weight = 1
+    weight = 2
 [[menus.main]]
     name = "Repeaters"
     url = "/repeaters/"
-    # pageRef = "about"
-    weight = 2
+    weight = 3
 [[menus.main]]
     name = "Field Day"
     # pageRef = "license"
     url = "/fieldday/"
-    weight = 3
+    weight = 4
 [[menus.main]]
     name = "Get Your License"
     # pageRef = "license"
@@ -32,6 +60,13 @@ title = 'BCARS 2024'
 [[menus.main]]
     name = "Search"
     params =   { "type" = "search" }
+    weight = 5
+[[menus.main]]
+    name = "GitHub"
+    url = "https://www.github.com/BCARS/bcarsdotorg"
+    params = {"icon" =  "github"}
+    weight = 6
+
 
 [module]
     [[module.imports]]
