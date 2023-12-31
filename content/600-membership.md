@@ -3,7 +3,7 @@ title = 'Membership - Join Us'
 slug = 'membership'
 weight = 600
 date = 2023-12-31T12:53:12-05:00
-draft = true
+draft = false
 +++
 
 The Bedford County Amateur Radio Society would like to extend an invitation for you to join us a member. The best way to join is by attending either a [meeting](/meetings/) or one of our [events](/activities/). This is a club run by and for amateur radio operators. Licensed amateurs can join as a full member entitled to all right of the society. Individuals without a license can also join and support the society as an associate member.

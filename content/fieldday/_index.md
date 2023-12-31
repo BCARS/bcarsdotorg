@@ -3,7 +3,6 @@ title: 'ARRL Field Day'
 slug: 'fieldday'
 weight: 400
 date: 2023-12-31T09:45:34-05:00
-draft: true
 cascade:
   type: docs
 ---

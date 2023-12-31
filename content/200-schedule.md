@@ -3,10 +3,8 @@ title: 'Activities Schedule'
 slug: 'activities'
 weight: 200
 date: 2023-12-31T09:45:34-05:00
-draft: true
+draft: false
 toc: false
-# cascade:
-#   type: docs
 ---
 
 ## 2024 Schedule
