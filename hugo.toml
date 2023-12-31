@@ -1,17 +1,6 @@
 baseURL = 'https://b2024.bcars.org/'
 languageCode = 'en-us'
 title = 'BCARS 2024'
-copyright = 'something'
-
-defaultContentLanguage = "en"
-# theme = 'ananke'
-[languages]
-    [languages.en]
-        languageName = "English"
-        weight = 1
-        title = "BCARS 2024"
-        # contentDir = "content/en"
-
 
 [params]
   [params.navbar]
@@ -22,16 +11,11 @@ defaultContentLanguage = "en"
       width = 60
       height = 60
       link = "/"
-
-    # # logoDark = "images/logo-dark.svg"
-    # logoLink = "/"
-    # logoWidth = 40
-    # logoHeight = 40
-    # logoDarkWidth = 40
-    # logoDarkHeight = 40
-    # logoDarkLink = "/"
   [params.page]
     width = "wide"
+  [params.footer]
+    displayCopyright = true
+    displayPoweredBy = false
 
 
 [menus]
