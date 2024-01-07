@@ -21,7 +21,7 @@ Join BCARS this Janurary on **Saturday the 27th at 1PM through Sunday the 278th*
 [Google Maps Link. Shawnee State Park - Lakeside Lodge, 441 State Park Rd, Schellsburg, PA 15559](https://maps.app.goo.gl/ehjfCPmE55P7oV6p7)
 
 
-Using Mill Rd, past KC3KHK's house.
+Using Mill Rd, past KC3KHK's house .
 
 ![Satellite view of route to lodge](files/wfd-lodge-route.png)
  
