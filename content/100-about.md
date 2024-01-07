@@ -13,6 +13,9 @@ toc: true
 ### Membership Meeting
 
 <!-- This section is copied from the meetings.md page --->
+
+Members and any interested members of the public are welcome to join us at our regular monthly business meetings.
+
 - 7:30 PM, First Thursday of every month
 - Takes place at the Bedford American Legion Post 113, 3721 Business 220 Bedford Twp PA 15522.
 - When you enter the main door, there is a hallway to the right to the  meeting room.

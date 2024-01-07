@@ -7,10 +7,20 @@ draft: false
 toc: false
 ---
 
+This list is kept updated on a best-effort bassis. Please join our [email list](https://bcars.groups.io) for latest activity.
+
+## Regular Activites
+
+
+- Daily High Noon Round table net at 12:00PM on 145.490-, PL123 
+- Tuesday Evening ARES net at 8PM, 145.490-, PL 123
+- BCARS DMR Talk Group is 3192899 (aka Bedford TAC)
+- [We have other linked repeaters on multiple frequencies, check them out.](/repeaters/)
+
 ### 2024 Schedule
 
 - January 4th – [BCARS Members Meeting @ 7:30PM](/meetings/)
-- January TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
+- January 27th-28th [Winter Field Day](/winterfieldday/) - check email for details.
 - February 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
 - March 7th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - April 4th [BCARS Members Meeting @ 7:30PM](/meetings/)
@@ -19,8 +29,8 @@ toc: false
 - June 6th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - June 22-23th [BCARS Field Day. Location TBD](/fieldday/)
 - July 4th. (TBD – This will either change to July 11th be combined with June Field day due to holiday) [BCARS Members Meeting @ 7:30PM](/meetings/)
-- July TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
 - July/August TBD Lost Turkey Trail Run – Details via email.
+- July TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
 - August 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
 - August 12th TBD – BCARS Members Picnic, Merrit Pond Campground -193 Flying Dutchman Rd
 - Bedford, PA 15522.  11AM – 3PM

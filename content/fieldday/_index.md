@@ -1,5 +1,5 @@
 ---
-title: 'ARRL Field Day'
+title: 'Field Day'
 slug: 'fieldday'
 weight: 400
 date: 2023-12-31T09:45:34-05:00
@@ -8,9 +8,12 @@ cascade:
 ---
 
 
-![ARRL Field Day 2023 Logo](files/2023_ARRL_Field_Day_logo_333_x_220.jpg)
 
-## Field Day – Schellsburg
+([Winter Field Day information is here](/fieldday/winterfieldday)).
+
+## Field Day 2023 in Schellsburg
+
+ <img src="files/2023_ARRL_Field_Day_logo_333_x_220.jpg" alt="ARRL Field Day 2023 Logo" width="200" height="200" style="float:left;margin:0px 20px">
 
 ARRL Field Day and VE Session – 2023ARRL Field Day is the most popular on-the-air event held annually in the US and Canada. On the fourth weekend of June, more than 35,000 radio amateurs gather with their clubs, groups or simply with friends to operate from remote locations.
 

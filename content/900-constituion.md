@@ -1,6 +1,7 @@
 ---
 weight: 900
 title: "Society Constitution"
+slug: constituion
 description: ""
 icon: "article"
 date: "2023-12-31T09:16:01-05:00"

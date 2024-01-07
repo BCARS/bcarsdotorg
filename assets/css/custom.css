@@ -1,6 +1,19 @@
 
 
+@media print {
+    .content {
+       font-family: "Courier New";
+       font-size: 22pt;
+    }
+    /* You can add additional styles here which you need */
+  }
+  
+  /* The styles between @print braces will be applied when you print the document */
 
+.content {
+    font-family: "Verdana", sans-serif;
+    font-size: 17px;
+}
 
 .top-0 {
     background-color: #c0bfc7;

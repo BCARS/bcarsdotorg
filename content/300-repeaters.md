@@ -10,6 +10,8 @@ toc = true
 
 The Bedford County Amateur Radio Society currently maintains five repeaters in Bedford (3) and Chaneysville (2). You can listen to our repeater network through [Broadcastify 39504](https://www.broadcastify.com/listen/feed/39504).
 
+We also maintain a [local frequency list, useful for programming radios](/resources/frequencies/).
+
 ## Repeater List
 
 |  Location |  Output | Input | CTCSS | Notes|
