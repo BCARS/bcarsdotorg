@@ -5,6 +5,8 @@ weight: 630
 date: 2023-12-31T09:45:34-05:00
 ---
 
+As BCARS programs a fair number of radios for members and friends, we have standardized on our frequency list that we load onto radios. This list does change over time, but we will attempt to keep all common lists on this page.
+
 You can download the CSV file for programming. There are three variations.
 
 - [Printable PDF of 2020 Master List](/files/BCARS-2020-Frequencies-bedfordrequencies-2020.pdf)
@@ -16,4 +18,3 @@ By far, the most common radios programmed by BCARS are Baofengs  Our programming
 
 If you are attempting to program a radio, many “cheap” cables come with a counterfeit “Profilic” chipset. If you are having any trouble with getting your programming cable to work, please see [miklor.com](http://www.miklor.com/COM/UV_Drivers.php) for help.
 
-As BCARS programs a fair number of radios for members and friends, we have standardized on our frequency list that we load onto radios. This list does change over time, but we will attempt to keep all common lists on this page.
