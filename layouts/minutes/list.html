@@ -8,8 +8,18 @@
         <h1 class="text-center mt-2 text-4xl font-bold tracking-tight text-slate-900 dark:text-slate-100">{{ .Title }}</h1>
         <div class="content">{{ .Content }}</div>
         {{ range .Pages.ByDate.Reverse }}
-          <div class="mb-10">
-            <h3><a style="color: inherit; text-decoration: none;" class="block font-semibold mt-8 text-2xl " href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+          <div class="mb-10" style="border-style: dotted solid;">
+            <h3><a style="color: inherit; text-decoration: none;" class="block font-semibold mt-8 text-2xl " href="{{ .RelPermalink }}">
+              <svg xmlns="http://www.w3.org/2000/svg"  width="48" height="48" viewBox="0 0 48 48" style="float:left;margin:0px 20px">
+                   <path fill="#90CAF9" d="M40 45H8V3h22l10 10z"/>
+                   <path fill="#E1F5FE" d="M38.5 14H29V4.5z"/>
+                   <path fill="#1976D2" d="M16 21h17v2H16zm0 4h13v2H16zm0 4h17v2H16zm0 4h13v2H16z"/>
+                </svg>
+               {{ partial "utils/format-date" .Date }} Meeting Minutes
+               
+              </a>
+              
+            </h3>
             {{- if site.Params.blog.list.displayTags -}}
               {{ with .Params.tags }}
                 <p class="opacity-50 text-sm leading-7">
@@ -17,7 +27,9 @@
                 </p>
               {{ end -}}
             {{- end -}}
+            <blockquote>
             <p class="opacity-80 mt-4 leading-7">{{- partial "utils/page-description" . -}}</p>
+            </blockquote>
             <p class="opacity-80 mt-1 leading-7">
               <a class="text-[color:hsl(var(--primary-hue),100%,50%)] underline underline-offset-2 decoration-from-font" href="{{ .RelPermalink }}">
                 {{- $readMore -}}
