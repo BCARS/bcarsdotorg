@@ -5,7 +5,9 @@ title = 'BCARS 2024'
 [params]
     [params.editURL]
         enable = true
-        base = "https://github.com/BCARS/bcarsdotorg/edit/main/content"
+        # edit requires instant login, blob lets the see the content first
+        base = "https://github.com/BCARS/bcarsdotorg/blob/main/content"
+        # base = "https://github.com/BCARS/bcarsdotorg/edit/main/content"
    [params.navbar]
         displayTitle = true
         displayLogo = true
