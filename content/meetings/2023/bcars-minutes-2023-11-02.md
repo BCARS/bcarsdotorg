@@ -7,16 +7,13 @@ tags:
   - Meetings
   - Minutes
 ---
-
-					
+				
 A meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Bedford American Legion Post 113** by **President Zachary Pepple** and a quorum was declared. 
 
-<!--more-->
-
-In attendance were (**12**) John KB3DFZ, Lance Hogenmiller, Zach KC3KHK, Steve KC3DNB, Tony KC3QOD, Gary KC3HKZ, Bernie W3DRW, Kip N2XRE, Steve KE3ZT, Steve KA3UDR, Kenny WB3JEK, Bill N3EYF.
+In attendance were (**12**): <!--more--> John KB3DFZ, Lance Hogenmiller, Zach KC3KHK, Steve KC3DNB, Tony KC3QOD, Gary KC3HKZ, Bernie W3DRW, Kip N2XRE, Steve KE3ZT, Steve KA3UDR, Kenny WB3JEK, Bill N3EYF.
 
 **Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **WB3JEK** and seconded by **KA3UDR**.  Motion carried.
-
+<!--more-->
 **Treasurer's Report** was presented by Steve KC3DNB. Steve discussed various checks received, checks issued and cash deposits. The ending balances are:
 
 <p>
