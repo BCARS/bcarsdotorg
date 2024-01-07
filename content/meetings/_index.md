@@ -5,6 +5,7 @@ slug: 'meetings'
 # weight: 255
 # type: blog
 # date: 2023-12-31T09:45:34-05:00
+toc: true
 cascade:
   type: minutes
 ---

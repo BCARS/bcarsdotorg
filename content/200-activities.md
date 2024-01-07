@@ -4,7 +4,7 @@ slug: 'activities'
 weight: 200
 date: 2023-12-31T09:45:34-05:00
 draft: false
-toc: false
+toc: true
 ---
 
 This list is kept updated on a best-effort bassis. Please join our [email list](https://bcars.groups.io) for latest activity.
@@ -17,7 +17,7 @@ This list is kept updated on a best-effort bassis. Please join our [email list](
 - BCARS DMR Talk Group is 3192899 (aka Bedford TAC)
 - [We have other linked repeaters on multiple frequencies, check them out.](/repeaters/)
 
-### 2024 Schedule
+## 2024 Schedule
 
 - January 4th – [BCARS Members Meeting @ 7:30PM](/meetings/)
 - January 27th-28th [Winter Field Day](/winterfieldday/) - check email for details.

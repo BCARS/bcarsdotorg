@@ -1,21 +1,24 @@
-baseURL = 'https://b2024.bcars.org/'
+baseURL = 'https://www.bcars.org/'
 languageCode = 'en-us'
 title = 'BCARS 2024'
 
 [params]
-  [params.navbar]
-    displayTitle = true
-    displayLogo = true
+    [params.editURL]
+        enable = true
+        base = "https://github.com/BCARS/bcarsdotorg/edit/main/content"
+   [params.navbar]
+        displayTitle = true
+        displayLogo = true
     [params.navbar.logo]
       path = "/images/BCARS-LOGO-svg.svg"
       width = 60
       height = 60
       link = "/"
-  [params.page]
-    width = "wide"
-  [params.footer]
-    displayCopyright = true
-    displayPoweredBy = false
+    [params.page]
+        width = "wide"
+    [params.footer]
+        displayCopyright = true
+        displayPoweredBy = false
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
@@ -55,24 +58,8 @@ title = 'BCARS 2024'
 
 
 [module]
-    # [[module.imports]]
-    #     path = "github.com/jgazeau/shadocs"
-    # [[module.imports]]
-    #     path = 'github.com/alex-shpak/hugo-book'
+
     [[module.imports]]
         path = "github.com/imfing/hextra"
         disable = false
-    # [[module.imports]]
-    #     path = "github.com/colinwilson/lotusdocs"
-    #     disable = false
-    # [[module.imports]]
-    #     path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
-    #     disable = false
 
-# Change the default theme to be use when building the site with Hugo
-# theme = "relearn"
-# theme = "cupper-hugo-theme"
-
-# For search functionality
-# [outputs]
-# home = [ "HTML", "RSS", "SEARCH"]

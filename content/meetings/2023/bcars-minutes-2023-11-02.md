@@ -22,7 +22,7 @@ In attendance were (**12**): <!--more--> John KB3DFZ, Lance Hogenmiller, Zach KC
             width: 40%;">
 
 |  Account          | Ending Balance |
-|-------------------|----------------|
+|:------------------|---------------:|
 | Petty Cash        |          $0.00 |
 | Checking Account  |      $3,775.25 |
 | Savings Account   |      $3,823.20 |

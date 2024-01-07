@@ -22,14 +22,14 @@ Treasurer's Report was presented by Steve KC3DNB. Steve discussed various checks
             width: 40%;">
 
 |  Account          | Ending Balance |
-|-------------------|-----------|
-| Petty Cash        |     $0.00 |
-| Checking Account  | $3,836.96 |
-| Savings Account   | $3,823.20 |
-| Total             | $7,660.16 |
+|:------------------|---------------:|
+| Petty Cash        |          $0.00 |
+| Checking Account  |      $3,836.96 |
+| Savings Account   |      $3,823.20 |
+| Total             |      $7,660.16 |
+
 
 </div></p>
-
 
 
 A motion to approve was made by **W3DRW**, seconded by **N2XRE**. Motion carried. The full treasurer's report is on file.
