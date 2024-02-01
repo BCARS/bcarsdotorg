@@ -6,12 +6,12 @@ draft = false
 weight = 500
 +++
 
-## 2023 Schedule
+## 204 Schedule
 
-- January 21st, @ 11 AM
-- April 15th @ 11 AM
-- July 22nd @ 11 AM
-- November 4th @ 11 AM
+- Feburary 24th, @ 11 AM
+- May 11th @ 11 AM
+- September 7th @ 11 AM
+- November 9th @ 11 AM
 
 **Bedford American Legion Post 113**, 3721 US-220 BUS, Bedford, PA 15522
 

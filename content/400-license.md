@@ -19,13 +19,13 @@ Testing includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, a
 
 <!-- always copy this schedule down to pre-registration on change -->
 
-**We do not yet have the 2024 schedule. Once we do, it will be updated here.**
+**We do not yet have the 2024 registrastion links. They should be up by Feb 3rd.**
 
-- February TBD, @ 09:30 – [Registration]()
-- April TBD @ 09:30 – [Registration]()
+- February 24th, @ 09:30 – [Registration]()
+- May 11th @ 09:30 – [Registration]()
 - June 22nd FIELD DAY @ 1:00PM. [Registration]() This is in Schellsburg. Please see our field day page for directions.
-- August TBD @ 09:30 – [Registration]()
-- November TBD @ 09:30 – [Registration]()
+- September 7th @ 09:30 – [Registration]()
+- November 9th @ 09:30 – [Registration]()
 
 <!-- always copy this schedule down to pre-registration on change -->
 
@@ -39,14 +39,13 @@ Please pre-register on hamstudy.org. There is a registration link for each sessi
 
 <!-- always copy this schedule down to pre-registration on change -->
 
-**We do not yet have the 2024 schedule. Once we do, it will be updated here.**
+**We do not yet have the 2024 registrastion links. They should be up by Feb 3rd.**
 
-- February TBD, @ 09:30 – [Registration]()
-- April TBD @ 09:30 – [Registration]()
+- February 24th, @ 09:30 – [Registration]()
+- May 11th @ 09:30 – [Registration]()
 - June 22nd FIELD DAY @ 1:00PM. [Registration]() This is in Schellsburg. Please see our field day page for directions.
-- August TBD @ 09:30 – [Registration]()
-- November TBD @ 09:30 – [Registration]()
-
+- September 7th @ 09:30 – [Registration]()
+- November 9th @ 09:30 – [Registration]()
 
 <!-- always copy this schedule down to pre-registration on change -->
 
