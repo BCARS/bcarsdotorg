@@ -14,7 +14,7 @@ Testing includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, a
 
 
 
-## 2023 Schedule
+## 2024 Schedule
 
 
 <!-- always copy this schedule down to pre-registration on change -->
