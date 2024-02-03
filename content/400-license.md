@@ -19,13 +19,11 @@ Testing includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, a
 
 <!-- always copy this schedule down to pre-registration on change -->
 
-**We do not yet have the 2024 registrastion links. They should be up by Feb 3rd.**
-
-- February 24th, @ 09:30 – [Registration]()
-- May 11th @ 09:30 – [Registration]()
-- June 22nd FIELD DAY @ 1:00PM. [Registration]() This is in Schellsburg. Please see our field day page for directions.
-- September 7th @ 09:30 – [Registration]()
-- November 9th @ 09:30 – [Registration]()
+- February 24th, @ 09:30 – [Registration](https://ham.study/sessions/65bea22f987cb356697ccae6/1)
+- May 11th @ 09:30 – [Registration](https://ham.study/sessions/65bea254a72443afd002277e/1)
+- June 22nd FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/65bea4660e31376f978476cb/1) This is in Schellsburg. Please see our [field day page](/fieldday) for directions.
+- September 7th, 2024 @ 09:30 – [Registration](https://ham.study/sessions/65bea26acc194ff56a1eb8e8/1)
+- November 9th @ 09:30 – [Registration](https://ham.study/sessions/65bea2910e31374c13846f56/1)
 
 <!-- always copy this schedule down to pre-registration on change -->
 
@@ -39,13 +37,11 @@ Please pre-register on hamstudy.org. There is a registration link for each sessi
 
 <!-- always copy this schedule down to pre-registration on change -->
 
-**We do not yet have the 2024 registrastion links. They should be up by Feb 3rd.**
-
-- February 24th, @ 09:30 – [Registration]()
-- May 11th @ 09:30 – [Registration]()
-- June 22nd FIELD DAY @ 1:00PM. [Registration]() This is in Schellsburg. Please see our field day page for directions.
-- September 7th @ 09:30 – [Registration]()
-- November 9th @ 09:30 – [Registration]()
+- February 24th, @ 09:30 – [Registration](https://ham.study/sessions/65bea22f987cb356697ccae6/1)
+- May 11th @ 09:30 – [Registration](https://ham.study/sessions/65bea254a72443afd002277e/1)
+- June 22nd FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/65bea4660e31376f978476cb/1) This is in Schellsburg. Please see our [field day page](/fieldday) for directions.
+- September 7th, 2024 @ 09:30 – [Registration](https://ham.study/sessions/65bea26acc194ff56a1eb8e8/1)
+- November 9th @ 09:30 – [Registration](https://ham.study/sessions/65bea2910e31374c13846f56/1)
 
 <!-- always copy this schedule down to pre-registration on change -->
 
