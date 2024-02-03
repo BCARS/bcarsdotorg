@@ -20,25 +20,26 @@ This list is kept updated on a best-effort bassis. Please join our [email list](
 ## 2024 Schedule
 
 - January 4th – [BCARS Members Meeting @ 7:30PM](/meetings/)
-- January 27th-28th [Winter Field Day](/winterfieldday/) - check email for details.
+- **January 27th-28th [Winter Field Day](/winterfieldday/)** - check email for details.
 - February 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
-- February 24th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
+- **February 24th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - March 7th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - April 4th [BCARS Members Meeting @ 7:30PM](/meetings/)
+- **April 6th WPA Spring SET Exercise**, details to be sent via email.
 - May 2nd [BCARS Members Meeting @ 7:30PM](/meetings/)
-- May 11th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
+- **May 11th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - June 6th [BCARS Members Meeting @ 7:30PM](/meetings/)
-- June 22-23th [BCARS Field Day. Location TBD](/fieldday/)
-- July 4th. (TBD – This will either change to July 11th be combined with June Field day due to holiday) [BCARS Members Meeting @ 7:30PM](/meetings/)
-- July/August TBD Lost Turkey Trail Run – Details via email.
+- **June 22-23th [BCARS Field Day. Location TBD](/fieldday/)**. We wil also hold a business meeting for July.
+- _July 4th. **Indepdence Day!** No July meeting, July's business will be discussed at field day._
+- July/August **TBD** Lost Turkey Trail Run – Details via email.
 - August 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
-- August 12th TBD – BCARS Members Picnic, Merrit Pond Campground -193 Flying Dutchman Rd
+- August **TBD** – **BCARS Members Picnic**, Merrit Pond Campground -193 Flying Dutchman Rd
 - Bedford, PA 15522.  11AM – 3PM
 - September 5th [BCARS Members Meeting @ 7:30PM](/meetings/)
-- September 7th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
-- September TBD – Bike Bedford County, starting at Shawnee Park.  Details via email.
+- **September 7th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
+- **September TBD – Bike Bedford County**, starting at Shawnee Park.  Details via email.
 - October 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
-- October 5th – Fall Set Exercise
+- **October 5th – Fall Set Exercise**, details to be sent via email.
 - November 7th [BCARS Members Meeting @ 7:30PM](/meetings/) NOMINATIONS DUE
-- November 9th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)
+- **November 9th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - December 4th – 6:30PM BCARS Dinner meeting, location Hoss's Steak House
