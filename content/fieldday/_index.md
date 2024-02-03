@@ -17,7 +17,7 @@ cascade:
 
 ARRL Field Day and VE Session – Field Day is the most popular on-the-air event held annually in the US and Canada. On the fourth weekend of June, more than 35,000 radio amateurs gather with their clubs, groups or simply with friends to operate from remote locations.
 
-Join BCARS this June on Saturday the 24th at 1PM through Sunday the 25th at Shawnee Valley Fire Department Picnic Area in Schellsburg, PA. For 24 hours, Licensed amateurs will be demonstrating amateur radio operation, using emergency power, and field expedient antenna design. Visitors will be given an opportunity to get on the air and make contacts (Get On the Air).
+Join BCARS this June on Saturday the 22nd at 1PM through Sunday the 23rd at Shawnee Valley Fire Department Picnic Area in Schellsburg, PA. For 24 hours, Licensed amateurs will be demonstrating amateur radio operation, using emergency power, and field expedient antenna design. Visitors will be given an opportunity to get on the air and make contacts (Get On the Air).
 
 ## Directions
 
