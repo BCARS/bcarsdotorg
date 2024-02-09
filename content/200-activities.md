@@ -28,6 +28,7 @@ This list is kept updated on a best-effort bassis. Please join our [email list](
 - **April 6th WPA Spring SET Exercise**, details to be sent via email.
 - May 2nd [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **May 11th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
+- **May 18th [Bloddy Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
 - June 6th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **June 22-23th [BCARS Field Day. Location TBD](/fieldday/)**. We wil also hold a business meeting for July.
 - _July 4th. **Indepdence Day!** No July meeting, July's business will be discussed at field day._
