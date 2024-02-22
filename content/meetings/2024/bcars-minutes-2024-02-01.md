@@ -39,7 +39,7 @@ A motion to approve was made by **N2XRE**, seconded by **KE3ZT**. Motion carried
 
 **Winter Field Day** was discussed. The Shawnee Lodge was a great location. BCARS members made 170 contacts for an initial total of 2,754 points. Final score will be available in March. BCARS has secured the lodge for next year's Winter Field Day.
 
-**Equipment Insurance** was discussed. The insurance agency sent an update that they are looking to find a way to continue offering insurace. BCARS will still need to produce a new inventory and get quotes from other providers in March.
+**Equipment Insurance** was discussed. The insurance agency sent an update that they are looking to find a way to continue offering insurance. BCARS will still need to produce a new inventory and get quotes from other providers in March.
 
 ## New Business
 
