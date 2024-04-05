@@ -1,5 +1,5 @@
 ---
-weight: 250
+weight: 700
 title: "Meeting Minutes Archive"
 slug: "archives"
 description: ""

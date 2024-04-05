@@ -1,6 +1,7 @@
 ---
 title: BCARS Meeting Minutes - March 7th, 2024
 date: 2024-03-07
+weight: 300
 sidebar:
   exclude: false
 tags:
