@@ -24,9 +24,9 @@ Treasurer's Report was presented by Steve KC3DNB. Steve discussed various checks
 |  Account          | Ending Balance |
 |:------------------|---------------:|
 | Petty Cash        |          $0.00 |
-| Checking Account  |      $4,120.61 |
+| Checking Account  |      $3,523.61 |
 | Savings Account   |      $3,823.68 |
-| Total             |      $7,944.29 |
+| Total             |      $7,347.29 |
 
 
 </div></p>
