@@ -1,12 +1,23 @@
 
-
+/* override styles when printing */  
 @media print {
+
+    body {
+        margin: 0;
+        color: #000;
+        background-color: #fff;
+      }
+
     .content {
        font-family: "Courier New";
        font-size: 22pt;
     }
+    /* hide nav and current location */
+    nav hextra-toc text-current {
+        display: none;
+    }
     /* You can add additional styles here which you need */
-  }
+}
   
   /* The styles between @print braces will be applied when you print the document */
 
