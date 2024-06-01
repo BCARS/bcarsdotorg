@@ -21,6 +21,10 @@ title = 'BCARS 2024'
     [params.footer]
         displayCopyright = true
         displayPoweredBy = false
+    [params.theme]
+        default = "light"
+
+
 
 [markup.goldmark.renderer]
   unsafe = true # Allow HTML in md files
