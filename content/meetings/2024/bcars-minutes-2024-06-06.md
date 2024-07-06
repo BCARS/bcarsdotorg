@@ -50,6 +50,9 @@ Food = chili KC3HKZ, donuts Sunday W3DRW, hotdogs KC3KHK, coleslaw potatoes sala
 
 With no further business, the meeting was adjourned at 2000 hours.
 
-Respectfully Submitted,
-Zachary Pepple, KC3KHK
-BCARS President
+Respectfully Submitted,  
+
+
+Zachary Pepple, KC3KHK  
+BCARS President  
+ 

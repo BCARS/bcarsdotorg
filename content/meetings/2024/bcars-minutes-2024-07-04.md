@@ -12,6 +12,9 @@ tags:
 In honor of July 4th, Independence Day, no meeting was held for July 2024.
 
 Respectfully Submitted,
-John Hogenmiller, KB3DFZ
-BCARS Secretary
+
+
+
+John Hogenmiller, KB3DFZ  
+BCARS Secretary	 
 
