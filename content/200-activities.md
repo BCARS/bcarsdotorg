@@ -34,10 +34,10 @@ This list is kept updated on a best-effort bassis. Please join our [email list](
 - _July 4th. **Indepdence Day!** No July meeting, July's business will be discussed at field day._
 - July/August **TBD** Lost Turkey Trail Run – Details via email.
 - August 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
-- August **TBD** – **BCARS Members Picnic**, Merrit Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
+- August 17th – **BCARS Members Picnic**, Merrit Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
 - September 5th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **September 7th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
-- **September TBD – Bike Bedford County**, starting at Shawnee Park.  Details via email.
+- ~~**September TBD – Bike Bedford County**, starting at Shawnee Park.~~ no longer held
 - October 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **October 5th – Fall Set Exercise**, details to be sent via email.
 - November 7th [BCARS Members Meeting @ 7:30PM](/meetings/) NOMINATIONS DUE
