@@ -42,4 +42,4 @@ This list is kept updated on a best-effort bassis. Please join our [email list](
 - **October 5th – Fall Set Exercise**, details to be sent via email.
 - November 7th [BCARS Members Meeting @ 7:30PM](/meetings/) NOMINATIONS DUE
 - **November 9th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
-- December 4th – 6:30PM BCARS Dinner meeting, location Hoss's Steak House
+- December 5th – 6:30PM BCARS Dinner meeting, location Hoss's Steak House
