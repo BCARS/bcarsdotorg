@@ -13,7 +13,7 @@ A meeting of the Bedford County Amateur Radio Society was called to order at **1
 
 In attendance were (**10**): <!--more--> John KB3DFZ, Zach KC3HK, Steve KC3DNB, Kenny WB3JEK, Gary KC3HKZ, Steve KE3ZT, Kip K3IP, Paul KC3ZJP, Ed KC3NAF, Jay K3SCM.
 
-**Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **N2XRE** and seconded by **KC3HKZ**.
+**Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **K3IP** and seconded by **KC3HKZ**.
 
 Treasurer's Report was presented by Steve KC3DNB. Steve discussed various checks received, checks issued and cash deposits. The ending balances are:
 
