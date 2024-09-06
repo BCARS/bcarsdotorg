@@ -39,9 +39,9 @@ December's meeting is typically held as a holiday Dinner at a local restaurant.
 - **President** 2023-2024: Zach Pepple, KC3KHK
 - **Vice President** 2023-2024: Gary Metivier, KC3HKZ
 - **Treasurer** 2023-2024: Steve Stiffler, KC3DNB
-- **Secretary** 2022-2023: John Hogenmiller, KB3DFZ
-- **Activities Manager** 2022-2023: Stephen Wurm, KE3ZT
-- **1 Year Trustee** 2023: Lloyd Roach, K3QNT
+- **Secretary** 2024-2025: John Hogenmiller, KB3DFZ
+- **Activities Manager** 2023-2024: Stephen Wurm, KE3ZT
+- **1 Year Trustee** 2024: Lloyd Roach, K3QNT
 - **2 Year Trustee** 2023-2024: Bill Grover, N3EYF
 - **5 Year Trustee** 2023-2027: Kip Kostenbauder, N2XRE 
 
