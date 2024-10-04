@@ -1,6 +1,6 @@
 ---
 title: BCARS Meeting Minutes - September 5th, 2024
-date: 2024-10-03
+date: 2024-09-05
 weight: 300
 sidebar:
   exclude: false
