@@ -68,6 +68,6 @@ With no further business, the meeting was adjourned at 2028 hours.
 Respectfully Submitted,  
 
 
-John Hogenmiller, KB3DFZ
+John Hogenmiller, KB3DFZ  
 BCARS Secretary  
  
