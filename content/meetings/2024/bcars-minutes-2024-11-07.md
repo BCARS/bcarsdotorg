@@ -38,22 +38,22 @@ A motion to approve was made by **KB3DFZ**, seconded by **W3DRW**. Motion carrie
 
 ## Old Business
 
-Zach provided an update on the Holiday Dinner, the current head count is still at 25. Please let Zach know
+**Zach provided an update on the Holiday Dinner**, the current head count is still at 25. Please let Zach know
 if you will be attending. The dinner is at Hoss's in Bedford on December 5th at 6:30PM. 
 
-Western PA Set exercise was discussed. KB3DFZ reported that there were 13 operator checkins, 8 Fire Departments Activated, and 2 Ambulance companies activated. 
+**Western PA Set exercise was discussed**. KB3DFZ reported that there were 13 operator checkins, 8 Fire Departments Activated, and 2 Ambulance companies activated. 
 
-November 9th is our next VE session and workshop. The VE session is at 9:30AM, the workshop is at 11 AM. We have 2 registered test takers.
+**November 9th is our next VE session and workshop**. The VE session is at 9:30AM, the workshop is at 11 AM. We have 2 registered test takers.
 
 ## New Business
 
-KB3DFZ discussed the UPS at Martin Hill. The Eaton UPS at 3.5 years now has a dead battery and is out of warranty. The UPS itself runs a bit over $200 and replacement batteries cost $50. The same model of UPS at Kinton Knob is still working, but is also out of warranty and almost as old as the Martin Hill one. Jerry N3RT donated a pair of large long lasting batteries for the club's use. After discussion it was decided to replace the existing UPS batteries and additional work on supplementing the UPS at either Martin Hill or Kinton knob with the heavier batteries.  KE3ZT motioned to purchase up to two sets of batteries at $50 each. Seconded by KA3UDR. Motion carried.
+**KB3DFZ discussed the UPS at Martin Hill**. The Eaton UPS at 3.5 years now has a dead battery and is out of warranty. The UPS itself runs a bit over $200 and replacement batteries cost $50. The same model of UPS at Kinton Knob is still working, but is also out of warranty and almost as old as the Martin Hill one. Jerry N3RT donated a pair of large long lasting batteries for the club's use. After discussion it was decided to replace the existing UPS batteries and additional work on supplementing the UPS at either Martin Hill or Kinton knob with the heavier batteries.  KE3ZT motioned to purchase up to two sets of batteries at $50 each. Seconded by KA3UDR. Motion carried.
 
-KC3DNB discussed equipment insurance. Our previous carrier stopped offering equipment insurance earlier this year. The club is currently self-insuring our repeater and EOC equipment and should decide on if that's how we want to proceed moving forward.
+**KC3DNB discussed equipment insurance**. Our previous carrier stopped offering equipment insurance earlier this year. The club is currently self-insuring our repeater and EOC equipment and should decide on if that's how we want to proceed moving forward.
 
-Summer Field Day was discussed. W3DRW recommends that we select Blankley Picnic Area on Martin Hill for the summer 2025 field day. This is a fairly nice remote area with lots of trees and open area. No running water or power, we would need to bring generators. After some discussion, Kip K3IP and Steve KE3ZT decided to do a trial run via POTA activation to evaluate the site, along with any other members that can attend. 
+**Summer Field Day was discussed**. W3DRW recommends that we select Blankley Picnic Area on Martin Hill for the summer 2025 field day. This is a fairly nice remote area with lots of trees and open area. No running water or power, we would need to bring generators. After some discussion, Kip K3IP and Steve KE3ZT decided to do a trial run via POTA activation to evaluate the site, along with any other members that can attend. 
 
-Nominations for office were held. Elections will be held December 5th.
+**Nominations for office were held. Elections will be held December 5th.**
 
 - KA3UDR and W3DRW nominated Lloyd Roach, K3QNT for 2-year Trustee.
 - KA3UDR and KE3ZT nominated Bill Grover, N3EYF for 1-year Trustee.
