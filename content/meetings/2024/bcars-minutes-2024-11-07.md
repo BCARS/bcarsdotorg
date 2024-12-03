@@ -58,6 +58,7 @@ if you will be attending. The dinner is at Hoss's in Bedford on December 5th at 
 - KA3UDR and W3DRW nominated Lloyd Roach, K3QNT for 2-year Trustee.
 - KA3UDR and KE3ZT nominated Bill Grover, N3EYF for 1-year Trustee.
 - KC3HKZ and KA3UDR nominated Steve Wurm, KE3ZT for Activities Manager.
+- W3DRW and KA3UDR nominated Steve Stiffler, KC3DNB for Treasurer.
 - WB3JEK and KE3ZT nominated Gary Metivier, KC3HKZ for Vice President.
 - KA3UDR and W3DRW nominated Christopher Berge, KC3ZKL for Vice President.
 - KA3UDR and W3DRW nominated Zach Pepple, KC3KHK for President.
