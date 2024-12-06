@@ -28,13 +28,13 @@ This list is kept updated on a best-effort bassis. Please join our [email list](
 - **April 6th WPA Spring SET Exercise**, details to be sent via email.
 - May 2nd [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **May 11th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
-- **May 18th [Bloddy Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
+- **May 18th [Bloody Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
 - June 6th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **June 22-23th [BCARS Field Day. Location TBD](/fieldday/)**. We wil also hold a business meeting for July.
-- _July 4th. **Indepdence Day!** No July meeting, July's business will be discussed at field day._
+- _July 4th. **Independence Day!** No July meeting, July's business will be discussed at field day._
 - July/August **TBD** Lost Turkey Trail Run – Details via email.
 - August 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
-- August 17th – **BCARS Members Picnic**, Merrit Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
+- August 17th – **BCARS Members Picnic**, Merritt Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
 - September 5th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **September 7th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - ~~**September TBD – Bike Bedford County**, starting at Shawnee Park.~~ no longer held
