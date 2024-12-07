@@ -34,16 +34,28 @@ December's meeting is typically held as a holiday Dinner at a local restaurant.
 
 
 
-### Club Officers
+### Club Officers (2024)
 
-- **President** 2023-2024: Zach Pepple, KC3KHK
-- **Vice President** 2023-2024: Gary Metivier, KC3HKZ
-- **Treasurer** 2023-2024: Steve Stiffler, KC3DNB
-- **Secretary** 2024-2025: John Hogenmiller, KB3DFZ
-- **Activities Manager** 2023-2024: Stephen Wurm, KE3ZT
-- **1 Year Trustee** 2024: Lloyd Roach, K3QNT
-- **2 Year Trustee** 2023-2024: Bill Grover, N3EYF
-- **5 Year Trustee** 2023-2027: Kip Kostenbauder, N2XRE 
+- **President** 2023-2024: KC3KHK - Zachary Pepple
+- **Vice President** 2023-2024: KC3HKZ - Gary Metivier
+- **Secretary** 2024-2025: KB3DFZ - John Hogenmiller
+- **Treasurer** 2023-2024: KC3DNB - Steven Stiffler
+- **Activities Manager** 2023-2024: KE3ZT - Stephen Wurm
+- **1-Year Trustee** 2024-2024: K3QNT - Lloyd Roach
+- **2-Year Trustee** 2023-2024: N3EYF - William Grover
+- **5-Year Trustee** 2023-2027: K3IP - Kip Kostenbauder
+
+**Upcoming 2025 Officers**
+
+- **President** 2025-2026: KC3KHK - Zachary Pepple
+- **Vice President** 2025-2026: KC3HKZ - Gary Metivier
+- **Secretary** 2024-2025: KB3DFZ - John Hogenmiller
+- **Treasurer** 2025-2026: KC3DNB - Steven Stiffler
+- **Activities Manager** 2025-2026: KE3ZT - Stephen Wurm
+- **1-Year Trustee** 2025-2025: N3EYF - William Grover
+- **2-Year Trustee** 2025-2026: K3QNT - Lloyd Roach
+- **5-Year Trustee** 2023-2027: K3IP - Kip Kostenbauder
+
 
 ### Mailing Address 
 
