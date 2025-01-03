@@ -10,7 +10,7 @@ tags:
 			
 A special holiday dinner meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Hoss's Restaurant** by **President Zachary Pepple** and a quorum was declared.
 
-In attendance that signed in were (**25**): <!--more--> John KB3DFZ, Robin KC3EXR, Lance, Zach KC3KHK, Brittney, Steve KC3DBB, Lloyd K3QNT, Bill N3EYF, Jay K3SCM, Bernie W3DRW, Steve KE3ZT, Rose, Gary KC3HKZ, Terry, Kenny WB3JEK, Sharon, Ellis KC3WMI, Kim, Judy KC3VBS, Gary, Aden KC3VLQ, "Gram", Paul KC3ZJP, Kip K3IP, Carrie.
+In attendance that signed in were (**25**): <!--more--> John KB3DFZ, Robin KC3EXR, Lance, Zach KC3KHK, Brittney, Steve KC3DNB, Lloyd K3QNT, Bill N3EYF, Jay K3SCM, Bernie W3DRW, Steve KE3ZT, Rose, Gary KC3HKZ, Terry, Kenny WB3JEK, Sharon, Ellis KC3WMI, Kim, Judy KC3VBS, Gary, Aden KC3VLQ, "Gram", Paul KC3ZJP, Kip K3IP, Carrie.
 
 At the start of the meeting, a headcount was taken, arriving at 29 people in attendance.
 
