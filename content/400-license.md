@@ -21,7 +21,7 @@ Testing includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, a
 
 - February 22nd, @ 09:30 – [Registration](https://ham.study/sessions/679fc14e0463b748e9c9a2c2/1)
 - May 10th @ 09:30 – [Registration](https://ham.study/sessions/679fc16da4b71c8cd3c2313f/1)
-- June 28th FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1) This is in Schellsburg. Please see our [field day page](/fieldday) for directions.
+- June 28th FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1) Please see our [field day page](/fieldday) for directions.
 - September 6th, 2024 @ 09:30 – [Registration](https://ham.study/sessions/679fc1eda4b71cf71bc2329d/1)
 - November 8th @ 09:30 – [Registration](https://ham.study/sessions/679fc1a3d02e190f5c5a6acc/1)
 
@@ -39,7 +39,7 @@ Please pre-register on hamstudy.org. There is a registration link for each sessi
 
 - February 22nd, @ 09:30 – [Registration](https://ham.study/sessions/679fc14e0463b748e9c9a2c2/1)
 - May 10th @ 09:30 – [Registration](https://ham.study/sessions/679fc16da4b71c8cd3c2313f/1)
-- June 28th FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1) This is in Schellsburg. Please see our [field day page](/fieldday) for directions.
+- June 28th FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1) Please see our [field day page](/fieldday) for directions.
 - September 6th, 2024 @ 09:30 – [Registration](https://ham.study/sessions/679fc1eda4b71cf71bc2329d/1)
 - November 8th @ 09:30 – [Registration](https://ham.study/sessions/679fc1a3d02e190f5c5a6acc/1)
 
