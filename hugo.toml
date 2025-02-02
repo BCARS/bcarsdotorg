@@ -1,6 +1,6 @@
 baseURL = 'https://www.bcars.org/'
 languageCode = 'en-us'
-title = 'BCARS 2024'
+title = 'BCARS 2025'
 
 [params]
     [params.editURL]
