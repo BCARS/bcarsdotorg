@@ -12,8 +12,6 @@ BCARS has a business meeting the first Thursday of each month at the Bedford Ame
 
 Please check out our list of [scheduled activities](/activities/).
 
-**July 6th and future meetings will be at the Bedford American Legion Post 113.**
-
 Jitsi for video meeting online: https://meet.jit.si/bcarsvideo
 
 We also maintain two recurring radio nets. For more details on [BCARS repeater network, click here](/repeaters/).
