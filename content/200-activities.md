@@ -30,7 +30,7 @@ We have not yet finalized the VE and workshop schedule.
 - **April 5th WPA Spring SET Exercise**, details to be sent via email.
 - May 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **May 10th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
-- **May TBD [Bloody Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
+- **May 17th [Bloody Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
 - June 5th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **June 28th-29th [BCARS Field Day. Blankley Park in Rainsburg, PA](/fieldday/)** We will also have a VE Licensing Session.
 - July 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
