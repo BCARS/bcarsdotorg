@@ -34,7 +34,7 @@ We have not yet finalized the VE and workshop schedule.
 - June 5th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **June 28th-29th [BCARS Field Day. Blankley Park in Rainsburg, PA](/fieldday/)** We will also have a VE Licensing Session.
 - July 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
-- July/August **TBD** Lost Turkey Trail Run – Details via email.
+- **July 26th** Lost Turkey Trail Run – Details via email.
 - August 7th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - August TBD – **BCARS Members Picnic**, Merritt Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
 - September 4th [BCARS Members Meeting @ 7:30PM](/meetings/)
