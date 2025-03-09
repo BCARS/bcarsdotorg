@@ -24,23 +24,23 @@ We have not yet finalized the VE and workshop schedule.
 - January 2nd – [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **January 25th-26th [Winter Field Day](/winterfieldday/)** - check email for details.
 - February 6th [BCARS Members Meeting @ 7:30PM](/meetings/)
-- **February TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
+- **February 22nd [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - March 6th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - April 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **April 5th WPA Spring SET Exercise**, details to be sent via email.
 - May 1st [BCARS Members Meeting @ 7:30PM](/meetings/)
-- **May TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
-- **May TBD [Bloody Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
+- **May 10th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
+- **May 17th [Bloody Run Float Festival](https://www.reimagineeverett.com/event-details-registration/bloody-run-float-fest) @ 9AM** BCARS supports the float in Everett.
 - June 5th [BCARS Members Meeting @ 7:30PM](/meetings/)
-- **June 21-22nd [BCARS Field Day. Location TBD](/fieldday/)**.
+- **June 28th-29th [BCARS Field Day. Blankley Park in Rainsburg, PA](/fieldday/)** We will also have a VE Licensing Session.
 - July 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
-- July/August **TBD** Lost Turkey Trail Run – Details via email.
+- **July 26th** Lost Turkey Trail Run – Details via email.
 - August 7th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - August TBD – **BCARS Members Picnic**, Merritt Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
 - September 4th [BCARS Members Meeting @ 7:30PM](/meetings/)
-- **September TND [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
+- **September 6th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - October 2nd [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **October 4th – Fall Set Exercise**, details to be sent via email.
 - November 6th [BCARS Members Meeting @ 7:30PM](/meetings/) NOMINATIONS DUE
-- **November TBD [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
+- **November 8th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - December 4th – 6:30PM BCARS Dinner meeting, location TBD

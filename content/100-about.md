@@ -34,18 +34,7 @@ December's meeting is typically held as a holiday Dinner at a local restaurant.
 
 
 
-### Club Officers (2024)
-
-- **President** 2023-2024: KC3KHK - Zachary Pepple
-- **Vice President** 2023-2024: KC3HKZ - Gary Metivier
-- **Secretary** 2024-2025: KB3DFZ - John Hogenmiller
-- **Treasurer** 2023-2024: KC3DNB - Steven Stiffler
-- **Activities Manager** 2023-2024: KE3ZT - Stephen Wurm
-- **1-Year Trustee** 2024-2024: K3QNT - Lloyd Roach
-- **2-Year Trustee** 2023-2024: N3EYF - William Grover
-- **5-Year Trustee** 2023-2027: K3IP - Kip Kostenbauder
-
-**Upcoming 2025 Officers**
+### Club Officers (2025)
 
 - **President** 2025-2026: KC3KHK - Zachary Pepple
 - **Vice President** 2025-2026: KC3HKZ - Gary Metivier

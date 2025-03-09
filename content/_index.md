@@ -1,5 +1,5 @@
 ---
-title: 'Welcome - BCARS 2024'
+title: 'Welcome - BCARS 2025'
 weight: 1
 date: 2023-12-31T09:45:34-05:00
 draft: false
@@ -11,8 +11,6 @@ cascade:
 BCARS has a business meeting the first Thursday of each month at the Bedford American Legion Post 113, 3721 Business 220 Bedford Twp PA 15522. Starting at 7:30PM.
 
 Please check out our list of [scheduled activities](/activities/).
-
-**July 6th and future meetings will be at the Bedford American Legion Post 113.**
 
 Jitsi for video meeting online: https://meet.jit.si/bcarsvideo
 
