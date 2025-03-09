@@ -16,7 +16,7 @@ In attendance were (**10**): <!--more--> John KB3DFZ, Gary KC3KHK, Steve KE3ZT, 
 
 **Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **KE3ZT** and seconded by **KA3UDR**.
 
-Treasurer's Report was presented by Steve KC3DNB. John discussed various checks received, checks issued and cash deposits. The ending balances are:
+Treasurer's Report was presented by Steve KC3DNB. Steve discussed various checks received, checks issued and cash deposits. The ending balances are:
 
 
 <p><div style="margin-left: auto;
