@@ -12,7 +12,7 @@ tags:
 
 A meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Bedford American Legion** by **President Zachary Pepple** and a quorum was declared.
 
-In attendance were (**17**): <!--more--> John KB3DFZ, Gary KC3KHK, Tom W3SF, Mike W3MRW, Dale KC3NFD, Steve KE3ZT, Bernie W3DRW, Lloyd K3QNT, Zach KC3KHK, Steve KC3DNB, Aden KC3VLQ, Judy KC3VBS, Steve KA3UDR, Ellis KC3WMMI, Kip K3IP, Ed KC3NAF, and Jay K3SCM.
+In attendance were (**17**): <!--more--> John KB3DFZ, Gary KC3HKZ, Tom W3SF, Mike W3MRW, Dale KC3NFD, Steve KE3ZT, Bernie W3DRW, Lloyd K3QNT, Zach KC3KHK, Steve KC3DNB, Aden KC3VLQ, Judy KC3VBS, Steve KA3UDR, Ellis KC3WMMI, Kip K3IP, Ed KC3NAF, and Jay K3SCM.
 
 **Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **W3DRW** and seconded by **K3QNT**.
 
