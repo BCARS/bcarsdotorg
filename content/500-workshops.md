@@ -6,7 +6,7 @@ draft = false
 weight = 500
 +++
 
-## 204 Schedule
+## 2025 Schedule
 
 - Feburary 22nd, @ 11 AM
 - May 10th @ 11 AM
