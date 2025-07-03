@@ -1,0 +1,249 @@
+
+ K3NQT's Contest Summary Report for ARRL-FD
+ Created by N3FJP's ARRL Field Day Contest Log
+ Version 6.6.9  www.n3fjp.com
+
+ Total Contacts = 284
+ Total Points = 460
+
+ Operating Period: 2025/06/28 18:11 - 2025/06/29 15:25
+
+ Total op time (breaks > 30 min deducted): 16:38:48
+ Total op time (breaks > 60 min deducted): 17:13:54
+
+ Avg Qs/Hr (breaks > 30 min deducted): 17.1
+
+
+ Total Contacts by Band and Mode:
+
+ Band       CW   Phone     Dig   Total       %
+ ----       --   -----     ---   -----     ---
+   80        9      47      16      72      25
+   40       77       4       0      81      29
+   20       44      46       1      91      32
+   15       22      11       5      38      13
+   10        1       0       0       1       0
+    6        0       0       1       1       0
+            --   -----     ---   -----     ---
+ Total     153     108      23     284     100
+
+
+
+ Total Contacts by Section:
+
+ Section     Total     %
+ -------     -----   ---
+ OH             20     7
+ EPA            13     5
+ NC             13     5
+ WPA            13     5
+ IN             12     4
+ MDC            12     4
+ CO             11     4
+ VA             10     4
+ IL              8     3
+ PR              8     3
+ WNY             8     3
+ AL              7     2
+ CT              7     2
+ STX             7     2
+ AZ              6     2
+ NTX             6     2
+ SC              6     2
+ GA              5     2
+ LAX             5     2
+ NNJ             5     2
+ WMA             5     2
+ WV              5     2
+ KY              4     1
+ MI              4     1
+ QC              4     1
+ SNJ             4     1
+ TN              4     1
+ WCF             4     1
+ DE              3     1
+ EMA             3     1
+ ENY             3     1
+ KS              3     1
+ ME              3     1
+ MO              3     1
+ NH              3     1
+ NLI             3     1
+ OK              3     1
+ ORG             3     1
+ RI              3     1
+ AR              2     1
+ GH              2     1
+ MT              2     1
+ NE              2     1
+ NM              2     1
+ ONS             2     1
+ SD              2     1
+ SDG             2     1
+ SFL             2     1
+ WTX             2     1
+ AB              1     0
+ GTA             1     0
+ IA              1     0
+ LA              1     0
+ MN              1     0
+ NB              1     0
+ NNY             1     0
+ PAC             1     0
+ SB              1     0
+ SCV             1     0
+ UT              1     0
+ VI              1     0
+ WI              1     0
+ WWA             1     0
+ WY              1     0
+
+ Total = 64
+
+
+ Total Contacts by State \ Prov:
+
+ State       Total     %
+ -----       -----   ---
+ PA             26     9
+ OH             20     7
+ NY             15     5
+ TX             15     5
+ NC             13     5
+ CA             12     4
+ IN             12     4
+ MD             12     4
+ CO             11     4
+ VA             10     4
+                 9     3
+ NJ              9     3
+ IL              8     3
+ MA              8     3
+ AL              7     2
+ CT              7     2
+ AZ              6     2
+ FL              6     2
+ SC              6     2
+ GA              5     2
+ ON              5     2
+ WV              5     2
+ KY              4     1
+ MI              4     1
+ QC              4     1
+ TN              4     1
+ DE              3     1
+ KS              3     1
+ ME              3     1
+ MO              3     1
+ NE              3     1
+ NH              3     1
+ OK              3     1
+ RI              3     1
+ AR              2     1
+ MT              2     1
+ NM              2     1
+ SD              2     1
+ AB              1     0
+ HI              1     0
+ IA              1     0
+ LA              1     0
+ MN              1     0
+ UT              1     0
+ WA              1     0
+ WI              1     0
+ WY              1     0
+
+ Total = 46
+
+
+ Total Contacts by Country:
+
+ Country                      Total     %
+ -------                      -----   ---
+ USA                            265    93
+ Canada                          10     4
+ Puerto Rico                      8     3
+ US Virgin Is.                    1     0
+
+ Total = 4
+
+
+ Total DX Miles (QSOs in USA not counted) = 19,061
+ Average miles per DX QSO = 1,003
+
+
+ Average bearing to the entities worked in each continent.
+ QSOs in USA not counted.
+
+ NA =  85
+
+
+ Total Contacts by Continent:
+
+ Continent   Total     %
+ ---------   -----   ---
+ NA            283   100
+ AS              1     0
+
+ Total = 2
+
+
+ Total Contacts by CQ Zone:
+
+ CQ Zone   Total     %
+ -------   -----   ---
+ 05          141    50
+ 04          109    38
+ 03           25     9
+ 08            9     3
+
+ Total = 4
+
+
+ Total Contacts by Initials:
+
+ Initials    Total     %
+ --------    -----   ---
+ JH             84    30
+ LBR            80    28
+ BFF            73    26
+ KB             47    17
+
+ Total = 4
+
+
+ Total Contacts by Operator:
+
+ Operator    Total     %
+ --------    -----   ---
+ KB3DFZ         84    30
+ K3QNT          80    28
+ W3DRW          73    26
+ WB3JEK         47    17
+
+ Total = 4
+
+
+ Total Contacts by Station:
+
+ Station           Total     %
+ -------           -----   ---
+ k3qnt                80    28
+ kb3dfzdr1            80    28
+ w3drw                73    26
+ WB3JEK               47    17
+ kb3dfz                4     1
+
+ Total = 5
+
+
+ Total Contacts by Computer:
+
+ Computer          Total     %
+ -------           -----   ---
+ kb3dfzdr1            84    30
+ DESKTOP-O2S97AD      80    28
+ LAPTOP-C9P9H9DU      73    26
+ DESKTOP-SVG8TMU      47    17
+
+ Total = 4
