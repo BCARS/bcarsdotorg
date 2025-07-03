@@ -22,7 +22,7 @@ In attendance were (**9**): <!--more--> KB3DFZ, KC3HKZ, KC3KHK, K3QNT, WB3JEK, K
 
 **Bloody Run Float** - Discussion about flooding and conditions affecting the event.
 
-**County Funding** - Llloyd K3QNT presented an update. K3QNT did discuss county funding with the commissioners recently, but will follow back up.
+**County Funding** - Lloyd K3QNT presented an update. K3QNT did discuss county funding with the commissioners recently, but will follow back up.
 
 **Repeater Update** - There is an potential offer for a free repeater in exchange for some antenna access. KB3DFZ will follow up and see what can be arranged. 
 
