@@ -7,7 +7,7 @@ cascade:
   type: docs
 ---
 
-
+[2025 Field Day Stats are here](results/2025/2025-arrl-fd-stats.txt)
 
 ([Winter Field Day information is here](/fieldday/winterfieldday)).
 
