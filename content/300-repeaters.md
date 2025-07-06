@@ -10,6 +10,8 @@ toc = true
 
 The Bedford County Amateur Radio Society currently maintains five repeaters in Bedford (3) and Chaneysville (2). You can listen to our repeater network through [Broadcastify 45009](https://www.broadcastify.com/listen/feed/45009).  
 
+**The 146.790 repeater in Martin Hill is down.**
+
 <iframe width="325px" height="245px" src="https://api.broadcastify.com/embed/player/?key=ba5eab00-1d65-11f0-9e04-0e98d5b32039&feedId=45009&html5=1&stats=1">...</iframe>
 
 We also maintain a [local frequency list, useful for programming radios](/resources/frequencies/).
@@ -21,9 +23,11 @@ We also maintain a [local frequency list, useful for programming radios](/resour
 |-----------|---------|-------|-------|------|
 |  Kinton Knob 2M |  145.49- Mhz | 144.89 Mhz | 123.0Hz | Primary Repeater and hub. Monitor Page [r145](https://r145.bcars.org/supermon/link.php?nodes=533173,533170,533172,533171,533175) |
 | Kinton Knob 1.25M |	224.48- Mhz 	| 222.88 Mhz |	123.0 Hz | 	Monitor [r224](https://r224.bcars.org/supermon/link.php?nodes=533172,533173,533170,533171)
-| Martin Hill 2M 	|146.790- Mhz 	|146.190 Mhz |	123.0 Hz 	|Secondary Repeater. Please “fail over” to this one if 145.490 is not working. [r146](https://r146.bcars.org/supermon/link.php?nodes=533170,533173,533172,533171,533175) |
+| TEMPORARY Martin Hill 2M 	|146.790- Mhz 	|146.190 Mhz |	123.0 Hz 	|Temporary lower power, may or may not be linked. . [r999](https://r999.walleye-universe.ts.net/supermon/link.php?nodes=533177,533170,533173,533172,533171,533175) |
+| DOWN Martin Hill 2M 	|146.790- Mhz 	|146.190 Mhz |	123.0 Hz 	|Secondary Repeater. Please “fail over” to this one if 145.490 is not working. [r146](https://r146.bcars.org/supermon/link.php?nodes=533170,533173,533172,533171,533175) |
 |Martin Hill 6M 	|53.15- Mhz |	52.15 Mhz 	| 123.0 Hz  |	[r53](https://r53.bcars.org/supermon/link.php?nodes=533171,533173,533170,533172) |
 | Kinton Knob 70CM DMR 	| 444.20 Mhz 	| 449.20 Mhz |	123.0 Hz |	Mixed Analog/DMR repeater. Set a carrier tone squelch of 123 on received. [View on Brandmeister](https://brandmeister.network/?page=device&id=313273) |
+
 
 ## 440 Mixed Analog/DMR Notes
 
