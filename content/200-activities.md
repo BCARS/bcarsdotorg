@@ -36,7 +36,7 @@ We have not yet finalized the VE and workshop schedule.
 - July 3rd [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **July 26th** Lost Turkey Trail Run – Details via email.
 - August 7th [BCARS Members Meeting @ 7:30PM](/meetings/)
-- August TBD – **BCARS Members Picnic**, Merritt Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
+- August 23rd – **BCARS Members Picnic**, Merritt Pond Campground  [193 Flying Dutchman Rd, Bedford, PA 15522](https://maps.app.goo.gl/7AQsjvUFr3CUP3FaA).  11AM – 3PM
 - September 4th [BCARS Members Meeting @ 7:30PM](/meetings/)
 - **September 6th [VE Session @9:30AM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
 - October 2nd [BCARS Members Meeting @ 7:30PM](/meetings/)
