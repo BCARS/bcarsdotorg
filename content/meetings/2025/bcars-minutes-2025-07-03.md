@@ -14,28 +14,25 @@ DRAFT
 
 A meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Bedford American Legion** by **President Zachary Pepple** and a quorum was declared.
 
-In attendance were (**9**): <!--more--> KB3DFZ, KC3HKZ, KC3KHK, K3QNT, WB3JEK, KA3UDR, KE3ZT, W3DRW, K3SCM
+In attendance were (**9**): <!--more--> KB3DFZ, KC3KHK, KC3WMI, K3IP, KE3ZT, KC3HKZ, W3DRW, KA3UDR
 
-**Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **W3DRW** and seconded by **KA3UDR**.
+**Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **K3IP** and seconded by **KA3UDR**.
 
-**No Treasurer Report** was given.
+**Treasurer's report was given by KB3DFZ.**  Motion to approve was made by **KE3ZT**, seconded by **KC3WMI**.
 
 ## Old Business
 
-**Bloody Run Float** - Discussion about flooding and conditions affecting the event.
+**Lost Turkey Trail** - Zach discussed updates for the Lost Turkey Trail on July 26th and will send out additional details online.
 
-**County Funding** - Lloyd K3QNT presented an update. K3QNT did discuss county funding with the commissioners recently, but will follow back up.
+**Repeater Update** - KB3DFZ provided updates on the repeaters - a temporary repeater is on Martin Hill on 146.790 and will be back down soon to establish linking.
 
-**Repeater Update** - There is an potential offer for a free repeater in exchange for some antenna access. KB3DFZ will follow up and see what can be arranged. 
+**Field Day** - KB3DFZ gave a report on Field Day, and reporting that the scores have been submitted. 
 
 ## New Business
 
-**Field Day** - As the path to Blankely Park is not well known, Bernie W3DRW will put ribbons out to highlight when to turn off or 336.  Emails will be sent out to organize food, radios, and other supplies needed for field day.  There will be no electricity. John/KB3DFZ has offered to bring a generator. K3QNT confirms we will be operating as an F class station.  Discussion was had around having a "tailgate" hamfest.
+*Van Repairs** - K3IP reported that the batteries have been replaced in the Commm Van, as well as getting new wipers and inspection completed.  The expenses totalled $369.11.  Motion to approve and reimburse expenses was made by KB3DFZ and secondeded by KA3UDR. 
 
-**Amateur Radio Month** KB3DFZ presented a proclamation from Governor Josh Shapiro declaring June 2025 as "Amateur Radio Month".
-
-
-With no further business, the meeting was adjourned at **2030** hours.
+With no further business, the meeting was adjourned at **1954** hours.
 
 Respectfully Submitted,  
 
