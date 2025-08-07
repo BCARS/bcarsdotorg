@@ -9,9 +9,6 @@ tags:
   - Minutes
 ---
 
-DRAFT 
-
-
 A meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Bedford American Legion** by **President Zachary Pepple** and a quorum was declared.
 
 In attendance were (**9**): <!--more--> KB3DFZ, KC3KHK, KC3WMI, K3IP, KE3ZT, KC3HKZ, W3DRW, KA3UDR
