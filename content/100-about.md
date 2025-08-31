@@ -48,9 +48,9 @@ December's meeting is typically held as a holiday Dinner at a local restaurant.
 
 ### Mailing Address 
 
-BCARS
-PO Box 6
-Manns Choice, PA 15550
+BCARS  
+120 W. Watson Street  
+Bedford, PA 15522
 
 ### E-Mail 
 
