@@ -23,7 +23,7 @@ Dues can be paid in person, by mail, or even by via [PayPal](https://www.paypal.
 To pay by mail, send a check for $20 to:
 
 ```text
-BCARS
-PO Box 6
-MANNS CHOICE, PA 15550
+BCARS  
+120 W. Watson Street  
+Bedford, PA 15522
 ```
