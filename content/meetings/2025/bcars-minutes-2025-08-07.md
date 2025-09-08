@@ -33,7 +33,7 @@ In attendance were (**12**): <!--more--> KB3DFZ, KC3HKZ, KC3DNB, KC3VLQ, Louise,
 
 **KB3DFZ motioned to purchase a new repeater**. Given the fundraising efforts and existing issues between Martin Hill and Kinton Knob, KB3DFZ motions to purchase a new Hytera 1062 VHF repeater for Kinton Knob. The list price is $3,000 but a discount is expected. Seconded by W3DRW.  All in favor, motion carried.
 
-**Motion to adopt new call sign**. K3QNT discussed the availability of a 1x2 call sign, W2ZC which can be used for the repeaters and events. After discussion, WB3JEK motioned for BCARS to apply for use of this call sign. Seconded by W3DRW. All in favor, motion carried. Our 5-year trustee, Kip Kostenbauder, K3IP will work with Lloyd Roach, K3QNT to facilitate this.
+**Motion to adopt new call sign**. K3QNT discussed the availability of a 1x2 call sign, W3ZC which can be used for the repeaters and events. After discussion, WB3JEK motioned for BCARS to apply for use of this call sign and retire K3NQT call sign. Seconded by W3DRW. All in favor, motion carried. Our 5-year trustee, Kip Kostenbauder, K3IP will work with Lloyd Roach, K3QNT to facilitate this.
 
 **K3QNT to become acting treasurer**.  With Steve Stiffler, KC3DNB's departure, KE3ZT motioned to have Trustee Lloyd Roach, K3QNT operate as Treasurer for the remainder of 2025. The club will take nominations for the treasurer, trustee, and other open positions at the November meeting for election in December. Motion seconded by KC3HKZ. All in favor, motion carried. Lloyd Roach, K3QNT and Steve Stiffler, KC3DNB will coordinate transfer details.
 
