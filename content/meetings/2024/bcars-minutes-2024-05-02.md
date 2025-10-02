@@ -3,7 +3,7 @@ title: BCARS Meeting Minutes - May 2nd, 2024
 date: 2024-05-02
 weight: 300
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes

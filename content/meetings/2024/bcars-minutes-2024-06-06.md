@@ -3,7 +3,7 @@ title: BCARS Meeting Minutes - June 6th, 2024
 date: 2024-06-06
 weight: 300
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes

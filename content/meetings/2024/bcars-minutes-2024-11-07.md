@@ -3,7 +3,7 @@ title: BCARS Meeting Minutes - November 7th, 2024
 date: 2024-11-07
 weight: 300
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes

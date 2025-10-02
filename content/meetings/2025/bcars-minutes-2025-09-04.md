@@ -1,6 +1,6 @@
 ---
 title: BCARS Meeting Minutes - September 4th, 2025
-date: 2025-004-04
+date: 2025-09-04
 weight: 300
 sidebar:
   exclude: false

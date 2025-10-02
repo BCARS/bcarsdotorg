@@ -3,7 +3,7 @@ title: BCARS Meeting Minutes - October 3rd, 2024
 date: 2024-10-03
 weight: 300
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes

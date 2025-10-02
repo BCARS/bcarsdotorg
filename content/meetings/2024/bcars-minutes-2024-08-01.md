@@ -3,7 +3,7 @@ title: BCARS Meeting Minutes - August 1st, 2024
 date: 2024-08-01
 weight: 300
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes

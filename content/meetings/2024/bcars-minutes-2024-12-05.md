@@ -2,7 +2,7 @@
 title: BCARS Meeting Minutes - December 5th, 2024
 date: 2024-12-05
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes

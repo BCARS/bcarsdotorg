@@ -3,7 +3,7 @@ title: BCARS Meeting Minutes - April 4th, 2024
 date: 2024-04-04
 weight: 300
 sidebar:
-  exclude: false
+  exclude: true
 tags:
   - Meetings
   - Minutes
