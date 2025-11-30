@@ -19,9 +19,9 @@ We also maintain a [local frequency list, useful for programming radios](/resour
 
 |  Location |  Output | Input | CTCSS | Notes|
 |-----------|---------|-------|-------|------|
-|  Kinton Knob 2M |  145.49- Mhz | 144.89 Mhz | 123.0Hz | Primary Repeater and hub. Monitor Page [r145](https://allmon-r145.bcars.org/). [Listen Live - broadcastify](https://www.broadcastify.com/listen/feed/45009). |
-| Kinton Knob 1.25M |	224.48- Mhz 	| 222.88 Mhz |	123.0 Hz | 	Monitor [r224](https://allmon-r224.bcars.org/).
-|  Martin Hill 2M 	| 146.790- Mhz 	|146.190 Mhz |	123.0 Hz 	|Secondary Repeater. Please “fail over” to this one if 145.490 is not working. [r146](https://allmon-r146.bcars.org/). [Listen Live - broadcastify](https://www.broadcastify.com/listen/feed/45814)  |
+|  Kinton Knob 2M |  145.49- Mhz | 144.89 Mhz | 123.0Hz | Primary Repeater and hub. Monitor Page [r145](https://r145.bcars.org/). [Listen Live - broadcastify](https://www.broadcastify.com/listen/feed/45009). |
+| Kinton Knob 1.25M |	224.48- Mhz 	| 222.88 Mhz |	123.0 Hz | 	Monitor [r224](https://r224.bcars.org/).
+|  Martin Hill 2M 	| 146.790- Mhz 	|146.190 Mhz |	123.0 Hz 	|Secondary Repeater. Please “fail over” to this one if 145.490 is not working. [r146](https://r146.bcars.org/). [Listen Live - broadcastify](https://www.broadcastify.com/listen/feed/45814)  |
 |Martin Hill 6M 	|53.15- Mhz |	52.15 Mhz 	| 123.0 Hz  |	[r53](https://r53.bcars.org/supermon/link.php?nodes=533171,533173,533170,533172) |
 | Kinton Knob 70CM DMR 	| 444.20 Mhz 	| 449.20 Mhz |	123.0 Hz |	Mixed Analog/DMR repeater. Set a carrier tone squelch of 123 on received. [View on Brandmeister](https://brandmeister.network/?page=device&id=313273) |
 
