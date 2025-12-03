@@ -1,5 +1,5 @@
 ---
-title: DRAFT BCARS Meeting Minutes - November 6th, 2025
+title: BCARS Meeting Minutes - November 6th, 2025
 date: 2025-11-06
 weight: 300
 sidebar:
