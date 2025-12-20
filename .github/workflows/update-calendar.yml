@@ -36,6 +36,7 @@ jobs:
       
       - name: Generate calendar
         run: |
+          cd tools
           uv run python generate_from_ics.py --activities-file ../content/200-activities.md
       
       - name: Check for changes
