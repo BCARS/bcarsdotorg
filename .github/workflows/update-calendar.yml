@@ -36,11 +36,12 @@ jobs:
       
       - name: Generate calendar
         run: |
-          uv run python tools/generate_from_ics.py
+          uv run generate_from_ics.py --activities-file ../content/200-activities.md
       
       - name: Check for changes
         id: git-check
         run: |
+          cd ${{ github.workspace }}
           git diff --exit-code content/200-activities.md || echo "changed=true" >> $GITHUB_OUTPUT
       
       - name: Commit and push if changed
