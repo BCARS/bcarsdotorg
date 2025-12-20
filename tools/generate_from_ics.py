@@ -34,17 +34,22 @@ EVENT_CATEGORIES = {
         'skip_location': False
     },
     'field_day': {
-        'keywords': ['field day', 'winter field day'],
+        'keywords': ['#fieldday', '#field-day'],
         'format': '**[{name}](/fieldday/)**',
+        'priority': 1
+    },
+    'winter_field_day': {
+        'keywords': ['winter field day', '#wfd'],
+        'format': '**[Winter Field Day](/fieldday/winterfieldday/)**',
         'priority': 2
     },
     've_workshop': {
-        'keywords': ['ve', 'workshop', 'license session'],
+        'keywords': ['#ve', '#workshop', 've session', 've workshop', 'license session', 'technician workshop', 'bcars ve'],
         'format': '**[VE Session @{time}](/license/) and [Technician Workshop @ 11AM](/workshops/)**',
         'priority': 2
     },
     'set_exercise': {
-        'keywords': ['set exercise', 'set'],
+        'keywords': ['set exercise', 'wpa set', 'simulated emergency test'],
         'format': '**{name}**',
         'priority': 2
     },
