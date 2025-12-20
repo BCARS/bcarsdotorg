@@ -30,14 +30,14 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 ## 2026 Schedule
 
 - January 8 [BCARS Members Meeting @ 7:30PM](/meetings/)
-- January 10 **[VE Session @7:30PM](/license/) and [Technician Workshop @ 11AM](/workshops/)**
-- January 24-25 **[Winter Field Day](/fieldday/)** – 441 State Park Rd, Schellsburg, PA 15559
+- January 10 **Test special event**
+- January 24-25 **[Winter Field Day](/fieldday/winterfieldday/)** – 441 State Park Rd, Schellsburg, PA 15559
 - February 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - March 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - April 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - May 7 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - June 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
-- June 27-29 **[Field Day](/fieldday/)**
+- June 27-29 **[ARRL Field Day](/fieldday/)**
 - July 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - August 6 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - September 3 [BCARS Members Meeting @ 7:30PM](/meetings/)
