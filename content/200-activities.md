@@ -16,6 +16,11 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 - BCARS DMR Talk Group is 3192899 (aka Bedford TAC)
 - [We have other linked repeaters on multiple frequencies, check them out.](/repeaters/)
 
+<!-- 
+    The GENERATED section is generated daily at 0600 UTC by github action. Do not edit, changes will be overwritten.  It reads the calendar at groups.io 
+    so we don't have to manually update both locations.
+    https://github.com/BCARS/bcarsdotorg/actions/workflows/update-calendar.yml
+-->
 <!-- GENERATED-START -->
 
 ## 2025 Schedule
