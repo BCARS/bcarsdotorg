@@ -17,12 +17,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 - [We have other linked repeaters on multiple frequencies, check them out.](/repeaters/)
 
 <!-- GENERATED-START -->
-<!-- 
-    This section is generated daily at 0600 UTC by github action. Do not edit,
-    changes will be overwritten.  It reads the calendar at groups.io so we don't
-    have to manually update both locations.
-    https://github.com/BCARS/bcarsdotorg/actions/workflows/update-calendar.yml
--->
 
 ## 2025 Schedule
 
@@ -31,6 +25,7 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 ## 2026 Schedule
 
 - January 8 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- January 10 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - January 24-25 **[Winter Field Day](/fieldday/)** – 441 State Park Rd, Schellsburg, PA 15559
 - February 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - March 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
