@@ -36,7 +36,7 @@ jobs:
       
       - name: Generate calendar
         run: |
-          uv run generate_from_ics.py --activities-file ../content/200-activities.md
+          uv run python generate_from_ics.py --activities-file ../content/200-activities.md
       
       - name: Check for changes
         id: git-check
