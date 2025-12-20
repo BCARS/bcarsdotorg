@@ -43,7 +43,13 @@ jobs:
         id: git-check
         run: |
           cd ${{ github.workspace }}
-          git diff --exit-code content/200-activities.md || echo "changed=true" >> $GITHUB_OUTPUT
+          if git diff --exit-code content/200-activities.md; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in activities calendar"
+          fi
       
       - name: Commit and push if changed
         if: steps.git-check.outputs.changed == 'true'
@@ -53,8 +59,9 @@ jobs:
           git add content/200-activities.md
           git commit -m "chore: update activities calendar"
           git push
+          echo "✅ Calendar updated and committed successfully"
       
-      - name: No changes
-        if: steps.git-check.outputs.changed != 'true'
-        run: echo "No changes to activities calendar"
+      - name: No changes needed
+        if: steps.git-check.outputs.changed == 'false'
+        run: echo "ℹ️ Calendar is already up-to-date, no changes needed"
 
