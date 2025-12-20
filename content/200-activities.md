@@ -16,7 +16,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 - BCARS DMR Talk Group is 3192899 (aka Bedford TAC)
 - [We have other linked repeaters on multiple frequencies, check them out.](/repeaters/)
 
-
 <!-- GENERATED-START -->
 
 ## 2025 Schedule
@@ -39,6 +38,12 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 - October 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - November 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - December 3 BCARS Year End Holiday Dinner, Hoss's 4308 Business 220, Bedford, PA 15522-7741
+
+---
+
+📅 **Subscribe to Calendar**: [Add BCARS calendar to your calendar app](https://groups.io/g/bcars/ics/8588710/260074914/feed.ics)
+
+*Click the link above to subscribe in Apple Calendar, Google Calendar, Outlook, or any calendar app that supports iCal feeds. Your calendar will automatically stay in sync with updates.*
 
 <!-- GENERATED-END -->
 
