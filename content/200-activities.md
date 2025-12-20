@@ -18,6 +18,7 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 
 <!-- GENERATED-START -->
 
+
 ## 2025 Schedule
 
 - December 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
@@ -45,5 +46,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 
 *Click the link above to subscribe in Apple Calendar, Google Calendar, Outlook, or any calendar app that supports iCal feeds. Your calendar will automatically stay in sync with updates.*
 
+oof
 <!-- GENERATED-END -->
 
