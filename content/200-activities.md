@@ -23,10 +23,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 -->
 <!-- GENERATED-START -->
 
-## 2025 Schedule
-
-- December 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
-
 ## 2026 Schedule
 
 - January 8 [BCARS Members Meeting @ 7:30PM](/meetings/)
@@ -43,6 +39,21 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 - October 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - November 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - December 3 BCARS Year End Holiday Dinner, Hoss's 4308 Business 220, Bedford, PA 15522-7741
+
+## 2027 Schedule
+
+- January 7 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- February 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- March 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- April 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- May 6 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- June 3 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- July 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- August 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- September 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- October 7 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- November 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- December 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 
 ---
 
