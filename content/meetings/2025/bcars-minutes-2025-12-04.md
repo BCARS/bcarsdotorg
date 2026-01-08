@@ -14,10 +14,6 @@ At the start of the meeting, a headcount was taken, arriving at 19 people in att
 
 **Elections were held.**  Congratulations to the following elected officers:
 
-- Steve Wurm, KE3ZT, nominates John Hogenmiller, KB3DFZ for Secretary.  Seconded by Lloyd Roach, K3QNT.
-- John Hogenmiller, KB3DFZ, nominates Lloyd Roach, K3QNT for Treasurer. Seconded by Bernie Frank, W3DRW.
-- Steve Elliot, KA3UDR, nominates Bernie Frank, W3DRW for 1-Year Trustee. Seconded by John Hogenmiller, KB3DFZ
-- John Hogenmiller, KB3DFZ, nominates Ellis Bowser, KC3WMI for 2-Year Trustee. Seconded by Lloyd Roach, K3QNT.
 - **Secretary** 2026-2027: KB3DFZ - John Hogenmiller
 - **Treasurer** 2026-2027: K3QNT - Lloyd Roach
 - **1-Year Trustee** 2026: W3DRW Bernie Frank
