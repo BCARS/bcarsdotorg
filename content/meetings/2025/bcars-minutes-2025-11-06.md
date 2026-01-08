@@ -37,8 +37,8 @@ There are 4 positions up for election this year: Secretary, Treasurer, 1-year Tr
 Nominations only require a nomination and a second, with voting to be held in December.
 
 - Steve Wurm, KE3ZT, nominates John Hogenmiller, KB3DFZ for Secretary.  Seconded by Lloyd Roach, K3QNT.
-- John Hogenmiller, KB3DFZ, nominates Lloyd Roach, K3QNT for Treasurer. Seconded by Bernie McDonald, W3DRW.
-- Steve Elliot, KA3UDR, nominates Bernie McDonald, W3DRW for 1-Year Trustee. Seconded by John Hogenmiller, KB3DFZ
+- John Hogenmiller, KB3DFZ, nominates Lloyd Roach, K3QNT for Treasurer. Seconded by Bernie Frank, W3DRW.
+- Steve Elliot, KA3UDR, nominates Bernie Frank, W3DRW for 1-Year Trustee. Seconded by John Hogenmiller, KB3DFZ
 - John Hogenmiller, KB3DFZ, nominates Ellis Bowser, KC3WMI for 2-Year Trustee. Seconded by Lloyd Roach, K3QNT.
 
 With no further nominations, officer nominations were closed.
