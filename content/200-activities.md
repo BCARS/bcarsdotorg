@@ -37,7 +37,7 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 - August 6 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - September 3 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - October 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
-- October 3 **Special Event - Worlds Larges Coffe Pot and USA 250th Anniversary** – Bedford, PA
+- October 3 **Special Event - World's Largest Coffee Pot and USA 250th Anniversary** – Bedford, PA
 - November 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - December 3 BCARS Year End Holiday Dinner, Hoss's 4308 Business 220, Bedford, PA 15522-7741
 
