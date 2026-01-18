@@ -13,17 +13,13 @@ The Bedford County Amateur Radio Society (BCARS) regularly hosts a VE licensing 
 Testing includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, and AMATEUR EXTRA. The event is open to anyone. BCARS is provides testing through the Laurel VEC, and there is NO CHARGE to take the exam. Absolutely free, and we won’t even ask for a donation. You are also welcome to attend our free workshop following the event. This is a good place to get radio recommendations, get a radio programmed, or learn more about the hobby and first steps.
 
 
-
+## 2026 Schedule is Pending
 ## 2025 Schedule
 
 
 <!-- always copy this schedule down to pre-registration on change -->
 
-- February 22nd, @ 09:30 – [Registration](https://ham.study/sessions/679fc14e0463b748e9c9a2c2/1)
-- May 10th @ 09:30 – [Registration](https://ham.study/sessions/679fc16da4b71c8cd3c2313f/1)
-- June 28th FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1) Please see our [field day page](/fieldday) for directions.
-- September 6th, 2024 @ 09:30 – [Registration](https://ham.study/sessions/679fc1eda4b71cf71bc2329d/1)
-- November 8th @ 09:30 – [Registration](https://ham.study/sessions/679fc1a3d02e190f5c5a6acc/1)
+
 
 <!-- always copy this schedule down to pre-registration on change -->
 
@@ -37,11 +33,6 @@ Please pre-register on hamstudy.org. There is a registration link for each sessi
 
 <!-- always copy this schedule down to pre-registration on change -->
 
-- February 22nd, @ 09:30 – [Registration](https://ham.study/sessions/679fc14e0463b748e9c9a2c2/1)
-- May 10th @ 09:30 – [Registration](https://ham.study/sessions/679fc16da4b71c8cd3c2313f/1)
-- June 28th FIELD DAY @ 1:00PM. [Registration](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1) Please see our [field day page](/fieldday) for directions.
-- September 6th, 2024 @ 09:30 – [Registration](https://ham.study/sessions/679fc1eda4b71cf71bc2329d/1)
-- November 8th @ 09:30 – [Registration](https://ham.study/sessions/679fc1a3d02e190f5c5a6acc/1)
 
 <!-- always copy this schedule down to pre-registration on change -->
 
