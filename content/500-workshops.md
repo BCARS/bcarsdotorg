@@ -6,12 +6,8 @@ draft = false
 weight = 500
 +++
 
-## 2025 Schedule
+## 2026 Schedule Pending
 
-- Feburary 22nd, @ 11 AM
-- May 10th @ 11 AM
-- September 6th @ 11 AM
-- November 8th @ 11 AM
 
 **Bedford American Legion Post 113**, 3721 US-220 BUS, Bedford, PA 15522
 
