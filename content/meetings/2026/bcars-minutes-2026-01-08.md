@@ -41,7 +41,7 @@ A motion to approve was made by **KE3ZT**, seconded by **KC3HKZ**. Motion carrie
 
 **Winter Field Day** was discussed. This takes place Jan 24th-25th. We have plans for 4 stations, but we only expect to operate 3 at a time, so we will operate as 3I.  Llloyd relayed that the new EC for Bedford County is Brittany McConnell. Lloyd has proposed an emcomm exercise to take place during field day for 1 hour to send traffic to the EOC.
 
-**Special Event in October** Steve, KE3ZT discussed this event at the coffee pot.  Needs to be decided on a date and submitted to QST about 10 months out.  The club decidd on October 3rd and to operate on 40, 20, and 15 meter bands.
+**Special Event in October** Steve, KE3ZT discussed this event at the coffee pot.  Needs to be decided on a date and submitted to QST about 10 months out.  The club decided on October 3rd and to operate on 40, 20, and 15 meter bands.
 
 
 
