@@ -52,7 +52,7 @@ K3QNT reports that the W3ZC-1 amateur radio license plate has been ordered for t
 
 K3QNT presented a billy from Ritchey Ritchey and Koontz for $60 to file the clubs yearly tax records.  Motioned to be paid by KE3ZT and seconded by W3DRW.
 
-With no further business, the meeting was adjourned at 2030 hours.
+With no further business, the meeting was adjourned at 2006 hours.
 
 Respectfully Submitted,  
 
