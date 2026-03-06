@@ -25,10 +25,10 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 
 ## 2026 Schedule
 
-- February 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - March 5 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - April 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - May 7 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- May 16 **Bloody Run Canoe Classic** – Everett, PA
 - June 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - June 27-29 **[ARRL Field Day](/fieldday/)**
 - July 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
