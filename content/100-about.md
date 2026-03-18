@@ -34,7 +34,7 @@ December's meeting is typically held as a holiday Dinner at a local restaurant.
 
 
 
-### Club Officers (2025)
+### Club Officers (2026)
 
 - **President** 2025-2026: KC3KHK - Zachary Pepple
 - **Vice President** 2025-2026: KC3HKZ - Gary Metivier
