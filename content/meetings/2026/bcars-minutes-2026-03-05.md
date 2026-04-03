@@ -41,7 +41,7 @@ A motion to approve was made by **W3DRW**, seconded by **KA3UDR**. Motion carrie
 
 Chris Casper, KD3BQB from Susquehanna Wireless did a presentation on meshtastic, coverage across the state, and how mesh nodes work. 
 
-K3QNT motioned to work with Chris to establish meshtastic nodes on BCARS tower sites and within Bedford County. Seconded by KA3UDR.
+K3QNT motioned for BCARS to work with Chris to establish meshtastic nodes on BCARS tower sites and within Bedford County. Seconded by KA3UDR.
 
 
 ## Old Business
