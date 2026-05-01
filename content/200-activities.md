@@ -25,7 +25,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 
 ## 2026 Schedule
 
-- April 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - May 7 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - May 16 **Bloody Run Canoe Classic** – Everett, PA
 - June 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
