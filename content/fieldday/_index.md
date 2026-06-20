@@ -35,7 +35,7 @@ Field Day 2026 will be held at Blankley Picnic Area off Blankley Road in Rainsbu
 
 ## VE License Exam
 
-For individuals wishing to get their amateur radio license, BCARS will also be hosting an all day VE licensing session on Saturday. [PLEASE REGISTER ON EXAMTOOLS][https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1]. You will need your FCC Registration Number to take the exam. Our VE team will be on-hand to administer the exam anytime during the field day event. This session includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, and AMATEUR EXTRA. There is no cost for the exam. If you are going for your amateur license, please bring a recent photo ID (example: school ID, US passport, driver’s license), or a current FCC license.
+For individuals wishing to get their amateur radio license, BCARS will also be hosting an all day VE licensing session on Saturday. [PLEASE REGISTER ON EXAMTOOLS](https://ham.study/sessions/679fc5d44c2b5b77ccd5ceb0/1). You will need your FCC Registration Number to take the exam. Our VE team will be on-hand to administer the exam anytime during the field day event. This session includes the three Amateur Radio license classes, TECHNICIAN, GENERAL, and AMATEUR EXTRA. There is no cost for the exam. If you are going for your amateur license, please bring a recent photo ID (example: school ID, US passport, driver’s license), or a current FCC license.
 
  
 
