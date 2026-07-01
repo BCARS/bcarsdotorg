@@ -25,8 +25,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 
 ## 2026 Schedule
 
-- June 4 [BCARS Members Meeting @ 7:30PM](/meetings/)
-- June 27-29 **[ARRL Field Day](/fieldday/)**
 - July 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - August 6 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - September 3 [BCARS Members Meeting @ 7:30PM](/meetings/)
