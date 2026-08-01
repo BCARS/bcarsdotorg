@@ -25,7 +25,6 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 
 ## 2026 Schedule
 
-- July 2 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - August 6 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - September 3 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - October 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
