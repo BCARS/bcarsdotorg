@@ -1,6 +1,6 @@
 ---
-title: BCARS Meeting Minutes - July 2nd, 2026
-date: 2026-07-02
+title: BCARS Meeting Minutes - August 6th, 2026
+date: 2026-08-06
 weight: 300
 sidebar:
   exclude: false
@@ -10,33 +10,29 @@ tags:
 ---
 
 
-A meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Bedford American Legion** by **President Zachary Pepple** and a quorum was declared.
+A meeting of the Bedford County Amateur Radio Society was called to order at **1930** hours at **Bedford American Legion** by **Vice President Gary Metivier** and a quorum was declared.
 
-In attendance were (**10**): John KB3DFZ, Kip K3IP, Zach KC3KHK, Gary KC3KHK, Steve KE3ZT, Bernie W3DRW, Lloyd K3QNT, R Spring, J Spring, Ellis KC3WMI.
+In attendance were (**10**): John KB3DFZ, Kip K3IP, Gary KC3KHK, Steve KE3ZT, Bernie W3DRW, Lloyd K3QNT, Steve KA3UDR, Ellis KC3WMI, Jay K3SCM, Kenny WB3JEK
 
-**Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **K3QNT** and seconded by **KC3HKZ**. Motion carried.
+**Meeting Minutes** were presented by John KB3DFZ. Motion to approve was made by **KA3UDR** and seconded by **W3DRW**. Motion carried.
 
-Treasurer's Report was presented by Lloyd K3QNT. Motion to approve was made by **W3DRW**, seconded by **KE3ZT**.
+Treasurer's Report was presented by Lloyd K3QNT. Motion to approve was made by **W3DRW**, seconded by **KA3UDR**.
 
 ## Old Business
 
-**Field Day:** The club discussed field day. It was generally agreed it went very well. Points are still being calculated.  KE3ZT presented a summary of VarAC emails sent.
+**Field Day:** KB3DFZ discussed field day scoring. 2048 total points.
 
-**Lost Turkey Trail** We are set to participate on July 25th, 2026.  Five stations need to be covered, plus start (which can move).  
+**Lost Turkey:** Was discussed.  It went very well, everyone was able to use the BCARS 145.490 repeater. Keith from the race committee thanked us for the help.
 
-Picnic - Merrit Pond is no longer renting out the pavillion. We don't have a location secured yet. We are looking at pavillions at Shawnee Park.  Food was discussed. 
+**Van Inspection** The van passed, but the alternator is not charging the battery and may need some work done with the regulator.
 
 ## New Business
 
-Commissioner stopped by at Field Day.  They do have a home school group that would be interested in us doing a presentation. This would be remote based.
+Picnic spot has been decided. Shawnee Park Pavilion #3 on August 23rd, 2026. There will be power at the pavilion.  
 
-**Bedford Area Recovery Network** is looking to do a 5K around August 15th, official date to be determined. 
+October 3rd is the coffee pot special event station.  KE3ZT will hand out some information next month about the coffee pot. We will be operating 3 bands for 12 hours on bands 15, 20, and 40 meters. Recommended frequencies will be in QST. 
 
-Van is due for inspection in July.  The tires are from 2015 and may need to be replaced.  K3QNT proposed that BCARS look into an enclosed trailer.  If the van needs tires - we may want to decide.
-
-HT was purchased for the van as approved in June's minutes. Total was $174 - BTECH UV PRO, color Black. With APRS.
-
-The meeting was adjourned at 2008 hours.
+The meeting was adjourned at 2000 hours.
 
 Respectfully Submitted,
 
