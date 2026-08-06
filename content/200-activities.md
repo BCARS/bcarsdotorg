@@ -26,6 +26,7 @@ This list is kept updated on a best-effort basis. Please join our [email list](h
 ## 2026 Schedule
 
 - August 6 [BCARS Members Meeting @ 7:30PM](/meetings/)
+- August 23 **BCARS Members Picnic**, 
 - September 3 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - October 1 [BCARS Members Meeting @ 7:30PM](/meetings/)
 - October 3 **Special Event - World's Largest Coffee Pot and USA 250th Anniversary** – Bedford, PA
