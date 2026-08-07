@@ -18,9 +18,7 @@ Please feel free to print out a [membership application from our site (pdf)](/fi
 
 **Annual Dues: $20.00**
 
-Dues can be paid in person, by mail, or even by via [PayPal](https://www.paypal.com/paypalme/BCARSK3NQT). If you use PayPal, please pay $22 in order to cover PayPal Fees.
-
-To pay by mail, send a check for $20 to:
+Dues can be paid in person or by mail. To pay by mail, send a check for $20 to:
 
 ```text
 BCARS  
