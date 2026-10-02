@@ -1,6 +1,6 @@
 ---
-title: BCARS Meeting Minutes - July 2nd, 2026
-date: 2026-07-02
+title: BCARS Meeting Minutes - August 6th, 2026
+date: 2026-08-06
 weight: 300
 sidebar:
   exclude: false
