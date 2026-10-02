@@ -8,6 +8,10 @@ cascade:
   type: docs
 ---
 
+{{< callout type="info" >}}
+**☕ Special Event Station — October 3, 2026!** BCARS is operating **W3ZC** from the World's Largest Coffee Pot in Bedford, PA. 8 AM – 8 PM on 40m, 20m, and 15m SSB. Celebrating the USA's 250th Anniversary — contacts count for the ARRL WAS250 award! [Details & QSL info →](/coffeepot)
+{{< /callout >}}
+
 BCARS has a business meeting the first Thursday of each month at the Bedford American Legion Post 113, 3721 Business 220 Bedford Twp PA 15522. Starting at 7:30PM.
 
 Please check out our list of [scheduled activities](/activities/).
